@@ -1,0 +1,198 @@
+#EXTM3U
+# Playlist created by SMPlayer 18.4.0 (ревизия 8992) 
+#EXTINF:1.06667,11 канал (Пенза)
+http://rt-vlg-penza-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8
+#EXTINF:1.032,12 канал (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:0.46,26 Регион HD (Ставрополь)
+http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_26-REGION/variant.m3u8
+#EXTINF:0.938667,31 канал (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:0.906667,49 канал (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:3.49093,9 Волна (Черкесск)
+http://rt-sth-krdar-htlive-lb.cdn.ngenix.net/hls/224.1.1.137.6000/variant.m3u8
+#EXTINF:1.36533,KURGAN.RU (Курган)
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8
+#EXTINF:0.905855,UGRA Travel (Сургут)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:1.03467,АИСТ (Иркутск)
+http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:1.00267,Актис (Ангарск)
+http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
+#EXTINF:1.00267,Альтес (Чита)
+http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R01_ALTES/variant.m3u8
+#EXTINF:1.00267,Ариг Ус (Улан-Удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_ARIGUS/variant.m3u8
+#EXTINF:0.968,Астрахань 24 (Астрахань)
+http://rt-sth-astrh-htlive-lb.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTINF:1.01067,АТВ-медиа (Улан-удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:0.866666,Афонтово (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
+#EXTINF:1.36533,Барс плюс (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:0.96,Белгород 24 (Белгород)
+http://rt-ct-belg-htlive-lb.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
+#EXTINF:0.938667,Брянская губерния (Брянск)
+http://rt-ct-bryansk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:0.9239,Вариант V (Владимир)
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
+#EXTINF:0.938666,Волга (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8
+#EXTINF:0.96,ВОТ тв (Липецк)
+http://rt-ct-lipetsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:1.04533,ГТ-Регион (Ярославль)
+http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+#EXTINF:0.845711,Губерния (Самара)
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8
+#EXTINF:0.832,Девятка ТВ (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8
+#EXTINF:1.22056,Дзержинск ТВ (Дзержинск)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:0.981333,Дон 24 (Ростов-на-Дону)
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
+#EXTINF:0.96,Екатеринбург-ТВ (Екатеринбург)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_EKBTV_URAL_EKT/variant.m3u8
+#EXTINF:1.04267,Енисей (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:0.981333,Катунь 24 (Барнаул)
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:0.842667,Кубань 24 (Краснодар)
+http://rt-sth-krdar-htlive-lb.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:1.25867,Липецкое время (Липецк)
+http://rt-ct-lipetsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_LVREM/variant.m3u8
+#EXTINF:1.04533,МИГ ТВ (Ноябрьск)
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIG_URAL_YNF/variant.m3u8
+#EXTINF:1.28,Мир Белогорья (Белгород)
+http://rt-ct-belg-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:1.04533,Мой город (Кемерово)
+http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_MOYGOROD/variant.m3u8
+#EXTINF:0.96,Москва 24 (Москва)
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:0.938667,Москва. Доверие (Москва)
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:1.36769,Мы и город (Красноуральск)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:0.842667,Национальное ТВ (Чебоксары)
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8
+#EXTINF:1.49333,Наши города (Когалым)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:0.938666,Ника ТВ (Калуга)
+http://rt-ct-kaluga-htlive-lb.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:0.938667,ННТВ (Нижний Новгород)
+http://rt-vlg-NN-htlive-lb.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:1.152,НОЯБРЬСК 24 (Ноябрьск)
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8
+#EXTINF:0.938522,Объектив 59 (Пермь)
+http://rt-ural-perm-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+#EXTINF:1.04533,ОТВ (Екатеринбург)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:0.938667,ОТВ (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
+#EXTINF:1.03202,ОТС (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:1.04533,Первый городской (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8
+#EXTINF:0.856,Первый городской (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_PERVYGORODSKOY/variant.m3u8
+#EXTINF:1.06667,Первый областной (Орел)
+http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:0.938667,Первый Ярославский (Ярославль)
+http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:1.00267,Продвижение (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_PRODVIZHENIE/variant.m3u8
+#EXTINF:1.04533,РИМ (Каменск-Уральский)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:1.06667,Ростов-папа (Ростов)
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8
+#EXTINF:1.128,С1 (Сургут)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:0.850667,Саратов 24 (Саратов)
+http://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8
+#EXTINF:1.17333,Северодвинская ГТРК (Северодвинск)
+http://rt-nw-arkh-htlive-lb.cdn.ngenix.net/hls/CH_R01_GTRK/variant.m3u8
+#EXTINF:0.976,СТВ Плюс (Ставрополь)
+http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF:1.82667,Тагил-ТВ (Тагил)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:1.28,ТВ-Губерния (Воронеж)
+http://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTINF:1.04533,Тверской Проспект (Тверь)
+http://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+#EXTINF:1.112,ТВ-Пенза (Пенза)
+http://rt-vlg-penza-htlive-lb.cdn.ngenix.net/hls/CH_R22_PENZA/variant.m3u8
+#EXTINF:1.00267,Тивиком (Улан-Удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_TIVICOM/variant.m3u8
+#EXTINF:0.842667,ТКР (Рязань)
+http://rt-ct-ryaz-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:1.00267,Томское время (Томск)
+http://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTINF:1.19467,Тюменское время (Тюмень)
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:0.904,Центр Красноярск (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
+#EXTINF:1.04533,Шадр-Инфо (Шадринск)
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+#EXTINF:0.938667,Югра (Тюмень)
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_UGRA_URAL_TUM/variant.m3u8
+#EXTINF:1.776,Юрган (Сыктывкар)
+http://rt-nw-komi-htlive-lb.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:0.938667,ЮТВ (Чебоксары)
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
+#EXTINF:1,ЗАБ.TV (Чита)
+http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
+#EXTINF:1.62133,ЧЕ (Север)
+http://tvsever.ru:1936/live/ach2/playlist.m3u8
+#EXTINF:1.06667,Север
+http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:1.04533,Губерния (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTGUBERNYA/variant.m3u8
+#EXTINF:2.00096,VRT.TV (Электросталь)
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+#EXTINF:1.30032,360 (Электросталь)
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
+#EXTINF:1.17333,ОТВ (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTTOTV/variant.m3u8?version=2
+#EXTINF:1,8 Канал (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT8KANAL/variant.m3u8?version=2
+#EXTINF:1.00277,СТС МИР (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_TSM/variant.m3u8?version=2
+#EXTINF:1.088,ПЕРВЫЙ ТУЛЬСКИЙ
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+#EXTINF:1.23733,TV PRO (Санкт-Петербург)
+http://rtmp.lovedrink.ru/hls/ch1.m3u8
+#EXTINF:1.04533,BST
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:1.53057,5 Канал
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_5TV/variant.m3u8
+#EXTINF:1.23733,2х2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_2X2/variant.m3u8
+#EXTINF:1.18796,РЕН ТВ
+http://rt-nw-spb-htlive-lb.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:6.10988,Первый (Санкт-Петербург)
+http://rt-nw-spb-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_NW_SPB_1TV/variant.m3u8
+#EXTINF:3.936,ТНТ
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8
+#EXTINF:1.616,ТНТ
+http://rt-nw-klgr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_NW_KLGR_TNT/variant.m3u8
+#EXTINF:1.05196,Россия 24
+http://rt-nw-spb-htlive-lb.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:1.07467,ОТР
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8
+#EXTINF:1.04533,Домашний (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY/variant.m3u8
+#EXTINF:1.44251,НТВ
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_NTV/variant.m3u8
+#EXTINF:1.5685,5 Канал
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_5TV/variant.m3u8
+#EXTINF:1.64718,Россия Культура
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_ROSSIAK/variant.m3u8
+#EXTINF:1.76239,ТВЦ
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TVC/variant.m3u8
+#EXTINF:1.49521,Домашний (ЕКБ)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOM_URAL_NTAG/variant.m3u8
+#EXTINF:1.56099,НТВ (ЕКБ)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_NTV/variant.m3u8
+#EXTINF:1,Пятница (ЕКБ)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_4CH_EKT/variant.m3u8

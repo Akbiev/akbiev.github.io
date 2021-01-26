@@ -1,0 +1,137 @@
+#﻿EXTM3U
+#EXTINF:+2,Первый канал  HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/156/index.m3u8
+#EXTINF:+2,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
+#EXTINF:+2,НТВ HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/109/index.m3u8
+#EXTINF:+2,ТНТ HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/116/index.m3u8
+#EXTINF:+2,Настоящее время HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,НТВ HD
+http://46.239.218.131:1988/fld_hls_www/ntv_hd.m3u8
+#EXTINF:-1,Первый HD
+http://46.239.218.131:1988/fld_hls_www/perviy_hd.m3u8
+#EXTINF:-1,Россия HD
+http://46.239.218.131:1988/fld_hls_www/rossia_hd.m3u8
+#EXTINF:-1,Наше HD
+http://46.239.218.131:1988/fld_hls_www/nashe_hd.m3u8
+#EXTINF:-1,MGM FHD
+http://89.160.222.14:1988/fld_hls_www/mgm_hd.m3u8
+#EXTINF:-1,MTV Live FHD
+http://89.160.222.14:1988/fld_hls_www/mtv_hd.m3u8
+#EXTINF:-1,Кинопремьера FHD
+http://89.160.222.14:1988/fld_hls_www/kinopremiera_hd.m3u8
+#EXTINF:-1,Охотник Рыболов HD
+http://89.160.222.14:1988/fld_hls_www/ohotnik_i_ribolov_hd.m3u8
+#EXTINF:-1,Nat Geo HD
+http://89.160.222.14:1988/fld_hls_www/nat_geo_hd.m3u8
+#EXTINF:-1,Мир HD
+http://89.160.222.14:1988/fld_hls_www/mir_hd.m3u8
+#EXTINF:-1,Дом Кино премиум HD
+http://89.160.222.14:1988/fld_hls_www/dom_kino_premium_hd.m3u8
+#EXTINF:-1,Остросюжетное FHD
+http://89.160.222.14:1988/fld_hls_www/ostosujetnoe_hd.m3u8
+#EXTINF:+2,Brodilo HD
+http://brodilo.tv/channel.php
+#EXTINF:+2,VIP Comedy HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/70/index.m3u8
+#EXTINF:+2,VIP Megahit HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/71/index.m3u8
+#EXTINF:+2,VIP Premium HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/72/index.m3u8
+#EXTINF:+2,Дом Кино Премиум HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/114/index.m3u8
+#EXTINF:+2,Кинопремьера HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/286/index.m3u8
+#EXTINF:+2,Discovery Channel HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/290/index.m3u8
+#EXTINF:+2,National Geographic HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/161/index.m3u8
+#EXTINF:+2,History HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/165/index.m3u8
+#EXTINF:+2,Viasat Nature/History HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/73/index.m3u8
+#EXTINF:+2,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:+2,TLC HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/167/index.m3u8
+#EXTINF:+2,Матч!Футбол 1 HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/29/index.m3u8
+#EXTINF:+2,Матч!Футбол 2 HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/23/index.m3u8
+#EXTINF:+2,Матч!Футбол 3 HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/24/index.m3u8
+#EXTINF:+2,Наш Футбол HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/25/index.m3u8
+#EXTINF:+2,Матч! HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/113/index.m3u8
+#EXTINF:+2,Матч! Арена HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/289/index.m3u8
+#EXTINF:+2,Конный Мир HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/112/index.m3u8
+#EXTINF:+2,Матч! Игра HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/287/index.m3u8
+#EXTINF:+2,Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/159/index.m3u8
+#EXTINF:+2,Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/77/index.m3u8
+#EXTINF:+2,MostVideo HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
+#EXTINF:+2,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/75/index.m3u8
+#EXTINF:+2,Viasat Nature/History HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/73/index.m3u8
+#EXTINF:+2,Animal Planet Russia HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/110/index.m3u8
+#EXTINF:+2,Nat Geo Wild HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/150/index.m3u8
+#EXTINF:+2,HD Life
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/288/index.m3u8
+#EXTINF:+2,Travel Channel HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/169/index.m3u8
+#EXTINF:+2,Amedia Premium HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/164/index.m3u8
+#EXTINF:+2,43 СТРК Туапсе HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:+2,43 СТРК Сочи HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:+2,Крым1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:+2,Крым24 HD
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:+2,TRT 1 HD Turkey
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:+2,Company TV HD
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:+2,Bollywood HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/171/index.m3u8
+#EXTINF:+2,1HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/158/index.m3u8
+#EXTINF:+2,Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:+2,MTV Live HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/26/index.m3u8
+#EXTINF:+2,Nickelodeon HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/30/index.m3u8
+#EXTINF:+2,Fox Russia HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/68/index.m3u8
+#EXTINF:+2,Bridge TV HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/115/index.m3u8
+#EXTINF:+2,RTG TV HD (Russian Travel Guide)
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/152/index.m3u8
+#EXTINF:+2,MGM HD Russia
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/154/index.m3u8
+#EXTINF:+2,Тлум HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/292/index.m3u8
+#EXTINF:+2,RFE/RL Russian HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/798/index.m3u8
+#EXTINF:+2,Food Network Russia HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/861/index.m3u8
+#EXTINF:+2,Nautical Channel HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/908/index.m3u8
+#EXTINF:+2,DocuBox HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/940/index.m3u8
+#EXTINF:+2,Fine Living Europe HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/942/index.m3u8

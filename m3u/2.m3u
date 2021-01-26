@@ -1,0 +1,632 @@
+#EXTM3U
+# Playlist created by SMPlayer 19.1.0 (ревизия 9191) 
+#EXTINF:0.84,1HD Music FHD
+https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Fashion TV FHD
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,France 24 (FR) FHD
+https://strm.yandex.ru/kal/france24/france240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Hit TV FHD
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Music Box (RU) FHD
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,RT Doc FHD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,RT FHD
+https://strm.yandex.ru/kal/rt_hd/rt_hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,RTG FHD
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,RU TV FHD
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,World Fashion FHD
+https://strm.yandex.ru/kal/fashion/fashion0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Башкортостан 24 FHD
+https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Большая Азия FHD
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Волгоград 1 FHD
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Дон 24 FHD
+https://strm.yandex.ru/kal/don24/don240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Жар Птица FHD
+https://strm.yandex.ru/kal/firebird/firebird0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Загородный FHD
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Матур ТВ FHD
+https://strm.yandex.ru/kal/matur/matur0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Premium FHD
+https://strm.yandex.ru/kal/mirhd/mirhd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Наша Сибирь FHD
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Ноябрьск 24 FHD
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,О!2 FHD
+https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Осетия-Ирыстон FHD
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТВ 24 (Екатеринбург) (+2) FHD
+https://strm.yandex.ru/kal/otv24/otv240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТС FHD
+https://strm.yandex.ru/kal/otstv/otstv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Охотник и Рыболов FHD
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Первый Тульский FHD
+https://strm.yandex.ru/kal/1tula/1tula0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Продвижение FHD
+https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Ратник FHD
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Своё ТВ  (Ставроаольский край) FHD
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Старт FHD
+https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Телеканал Футбол FHD
+https://strm.yandex.ru/kal/football/football0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Три Ангела FHD
+https://strm.yandex.ru/kal/3angel/3angel0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,Юрган FHD
+https://strm.yandex.ru/kal/yurgan/yurgan0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,1HD Music HD
+https://strm.yandex.ru/kal/1hd/1hd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ACB TV HD
+https://strm.yandex.ru/kal/acb/acb0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Deutsche Welle HD (DE)
+https://strm.yandex.ru/kal/dw_supres/dw_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,EarthTV HD
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Fashion TV HD
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,France 24 (FR) HD
+https://strm.yandex.ru/kal/france24/france240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Fresh TV HD
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,HD Media HD
+https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Hit TV HD
+https://strm.yandex.ru/kal/hittv/hittv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Joy Cook HD
+https://strm.yandex.ru/kal/joycook/joycook0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Music Box (RU) HD
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,RT Doc HD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,RT HD
+https://strm.yandex.ru/kal/rt_hd/rt_hd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,RU TV HD
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Sochi Live HD
+https://strm.yandex.ru/kal/sochilive/sochilive0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Terra Incognita HD
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,TVM Channel HD
+https://strm.yandex.ru/kal/tvm_supres/tvm_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,World Fashion HD
+https://strm.yandex.ru/kal/fashion/fashion0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Архыз 24 HD
+https://strm.yandex.ru/kal/arhyz24/arhyz240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Астрахань 24 HD
+https://strm.yandex.ru/kal/astrahan24/astrahan240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Башкортостан 24 HD
+https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Большая Азия HD
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Брянская Губерния HD
+https://strm.yandex.ru/kal/brgub/brgub0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Вкусное. ТВ HD
+https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Волгоград 1 HD
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Восток 24 HD
+https://strm.yandex.ru/kal/vostok24_supres/vostok24_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Грозный HD
+https://strm.yandex.ru/kal/grozny_supres/grozny_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Дайвинг. TV HD
+https://strm.yandex.ru/kal/diving/diving0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0.8,Дождь HD
+https://strm.yandex.ru/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Дон 24 HD
+https://strm.yandex.ru/kal/don24/don240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Евроновости HD
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Жар Птица HD
+https://strm.yandex.ru/kal/firebird/firebird0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Загородный HD
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Звезда HD
+https://strm.yandex.ru/kal/zvezda_supres/zvezda_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Классика кино HD
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Красная Линия HD
+https://strm.yandex.ru/kal/rline_supres/rline_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Крик ТВ (Екатеринбург) (+2) HD
+https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Любимое. ТВ HD
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Матур ТВ HD
+https://strm.yandex.ru/kal/matur/matur0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир 24 HD
+https://strm.yandex.ru/kal/mir24_supres/mir24_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Premium HD
+https://strm.yandex.ru/kal/mirhd/mirhd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Белогорья HD
+https://strm.yandex.ru/kal/mirbel/mirbel0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Москва 24 HD
+https://strm.yandex.ru/kal/msk24_supres/msk24_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Муз-ТВ HD
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0.88,Надежда HD
+https://strm.yandex.ru/kal/nadejda_supres/nadejda_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Неизвестная планета HD
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Ноябрьск 24 HD
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,О!2 HD
+https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Осетия-Ирыстон HD
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТВ 24 (Екатеринбург) (+2) HD
+https://strm.yandex.ru/kal/otv24/otv240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТС HD
+https://strm.yandex.ru/kal/otstv/otstv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Охотник и Рыболов HD
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Первый Тульский HD
+https://strm.yandex.ru/kal/1tula/1tula0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Пёс и Ко HD
+https://strm.yandex.ru/kal/pesiko_supres/pesiko_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Про бизнес HD
+https://strm.yandex.ru/kal/probusiness_cv_supres/probusiness_cv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Продвижение HD
+https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Ратник HD
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,РБК HD
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,С1 (Сургут) HD
+https://strm.yandex.ru/kal/c1/c10_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Саратов 24 (+1) HD
+https://strm.yandex.ru/kal/saratov24_supres/saratov24_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Своё ТВ  (Ставроаольский край) HD
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Сказки Зайки HD
+https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Союз HD
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Старт HD
+https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ТВТУР.TV HD
+https://strm.yandex.ru/kal/tvtour/tvtour0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Телеканал Футбол HD
+https://strm.yandex.ru/kal/football/football0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ТК Центр (Красноярск) HD
+https://strm.yandex.ru/kal/tck/tck0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Три Ангела HD
+https://strm.yandex.ru/kal/3angel/3angel0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Эхо ТВ HD
+https://strm.yandex.ru/kal/echotv_supres/echotv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Юрган HD
+https://strm.yandex.ru/kal/yurgan/yurgan0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Ocean TV
+https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Барс
+https://strm.yandex.ru/kal/bars_supres/bars_supres0_43_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Раз-ТВ
+https://strm.yandex.ru/kal/raztv_supres/raztv_supres0_54_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Совершенно Секретно
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8
+#EXTINF:0,ТДК
+https://strm.yandex.ru/kal/tdk_supres/tdk_supres0_43_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Успех
+https://strm.yandex.ru/kal/uspehtv_supres/uspehtv_supres0_1511_720p.json/index-v1-a1.m3u8
+#EXTINF:0,8 канал (Красноярск)
+https://strm.yandex.ru/kal/ch8/ch80_43_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Deutsche Welle (DE)
+https://strm.yandex.ru/kal/dw_supres/dw_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Ocean TV
+https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,RTVI
+https://strm.yandex.ru/kal/rtvi/rtvi0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,TVM Channel
+https://strm.yandex.ru/kal/tvm_supres/tvm_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,WBC
+https://strm.yandex.ru/kal/wbc/wbc0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Аист
+https://strm.yandex.ru/kal/aist/aist0_43_540p.json/index-v1-a1.m3u8
+#EXTINF:0.92,Анекдот ТВ
+https://strm.yandex.ru/kal/anekdot/anekdot0_1511_576p.json/index-v1-a1.m3u8
+#EXTINF:0.845333,Ариг Ус (Улан-Уде) (+5)
+https://strm.yandex.ru/kal/arigus/arigus0_1511_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Барс
+https://strm.yandex.ru/kal/bars_supres/bars_supres0_43_576p.json/index-v1-a1.m3u8
+#EXTINF:0,БСТ
+https://strm.yandex.ru/kal/bstufa/bstufa0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Восток 24
+https://strm.yandex.ru/kal/vostok24_supres/vostok24_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Вся Уфа
+https://strm.yandex.ru/kal/allufa/allufa0_54_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Грозный
+https://strm.yandex.ru/kal/grozny_supres/grozny_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Губерния (Хабаровский Край) (+7)
+https://strm.yandex.ru/kal/guberniya/guberniya0_43_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Дагестан
+https://strm.yandex.ru/kal/dagestan/dagestan0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0.88,Евроновости
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,ЕГЭ ТВ
+https://strm.yandex.ru/kal/egetv/egetv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Звезда
+https://strm.yandex.ru/kal/zvezda_supres/zvezda_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+https://strm.yandex.ru/kal/kaleidoskoptv/kaleidoskoptv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Канал 86 (Сургут) (+2)
+https://strm.yandex.ru/kal/ch86/ch860_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Красная Линия
+https://strm.yandex.ru/kal/rline_supres/rline_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир
+https://strm.yandex.ru/kal/mir/mir0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир 24
+https://strm.yandex.ru/kal/mir24_supres/mir24_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Сериала
+https://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Увлечений
+https://strm.yandex.ru/kal/hobbyworld/hobbyworld0_1511_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Москва 24
+https://strm.yandex.ru/kal/msk24_supres/msk24_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Моя Удмуртия
+https://strm.yandex.ru/kal/udmurtia/udmurtia0_43_540p.json/index-v1-a1.m3u8
+#EXTINF:0,МузСоюз
+https://strm.yandex.ru/kal/muzsoyuz/muzsoyuz0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Муз-ТВ
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Надежда
+https://strm.yandex.ru/kal/nadejda_supres/nadejda_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Ника ТВ
+https://strm.yandex.ru/kal/nikatv/nikatv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Новости 360
+https://strm.yandex.ru/kal/360news/360news0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Первый вегетарианский
+https://strm.yandex.ru/kal/1vegetarian/1vegetarian0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Пёс и Ко
+https://strm.yandex.ru/kal/pesiko_supres/pesiko_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Про бизнес
+https://strm.yandex.ru/kal/probusiness_cv_supres/probusiness_cv_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Радость моя
+https://strm.yandex.ru/kal/radostmoya/radostmoya0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Раз-ТВ
+https://strm.yandex.ru/kal/raztv_supres/raztv_supres0_54_576p.json/index-v1-a1.m3u8
+#EXTINF:0,РБК
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Саратов 24 (+1)
+https://strm.yandex.ru/kal/saratov24_supres/saratov24_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Совершенно Секретно
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_54_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Советские мультфильмы
+https://strm.yandex.ru/kal/sovmult/sovmult0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Советское кино
+https://strm.yandex.ru/kal/sovkino/sovkino0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Союз
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:1.2,ТВЦ
+https://strm.yandex.ru/kal/tvc/tvc0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,ТДК
+https://strm.yandex.ru/kal/tdk_supres/tdk_supres0_43_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Телеканал 360
+https://strm.yandex.ru/kal/360tv/360tv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Тномер (Ремонт)
+https://strm.yandex.ru/kal/tnomer/tnomer0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Точка ТВ
+https://strm.yandex.ru/kal/tochkatv_cv/tochkatv_cv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Успех
+https://strm.yandex.ru/kal/uspehtv_supres/uspehtv_supres0_1511_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Центральное телевидение
+https://strm.yandex.ru/kal/ctv/ctv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,ШАДР-инфо
+https://strm.yandex.ru/kal/shadrinfo/shadrinfo0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Эхо ТВ
+https://strm.yandex.ru/kal/echotv_supres/echotv_supres0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,Югра
+https://strm.yandex.ru/kal/ugra/ugra0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:0,1HD Music
+https://strm.yandex.ru/kal/1hd/1hd0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ACB TV
+https://strm.yandex.ru/kal/acb/acb0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Deutsche Welle (DE)
+https://strm.yandex.ru/kal/dw_supres/dw_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,EarthTV
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Fashion TV
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,France 24 (FR)
+https://strm.yandex.ru/kal/france24/france240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,HD Media
+https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Hit TV
+https://strm.yandex.ru/kal/hittv/hittv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Joy Cook
+https://strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Music Box (RU)
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Ocean TV
+https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,RT
+https://strm.yandex.ru/kal/rt_hd/rt_hd0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,RT Doc
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,RTG
+https://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,RTVI
+https://strm.yandex.ru/kal/rtvi/rtvi0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,RU TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Sochi Live
+https://strm.yandex.ru/kal/sochilive/sochilive0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Terra Incognita
+https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,TVM Channel
+https://strm.yandex.ru/kal/tvm_supres/tvm_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,WBC
+https://strm.yandex.ru/kal/wbc/wbc0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,World Fashion
+https://strm.yandex.ru/kal/fashion/fashion0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Архыз 24
+https://strm.yandex.ru/kal/arhyz24/arhyz240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Астрахань 24
+https://strm.yandex.ru/kal/astrahan24/astrahan240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Башкортостан 24
+https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Большая Азия
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Брянская Губерния
+https://strm.yandex.ru/kal/brgub/brgub0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,БСТ
+https://strm.yandex.ru/kal/bstufa/bstufa0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Вкусное. ТВ
+https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Волгоград 1
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Восток 24
+https://strm.yandex.ru/kal/vostok24_supres/vostok24_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Грозный
+https://strm.yandex.ru/kal/grozny_supres/grozny_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Дагестан
+https://strm.yandex.ru/kal/dagestan/dagestan0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Дайвинг. TV
+https://strm.yandex.ru/kal/diving/diving0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Дождь
+https://strm.yandex.ru/kal/tvrain/tvrain0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Дон 24
+https://strm.yandex.ru/kal/don24/don240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Евроновости
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ЕГЭ ТВ
+https://strm.yandex.ru/kal/egetv/egetv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Жар Птица
+https://strm.yandex.ru/kal/firebird/firebird0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Загородный
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Звезда
+https://strm.yandex.ru/kal/zvezda_supres/zvezda_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+https://strm.yandex.ru/kal/kaleidoskoptv/kaleidoskoptv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Канал 86 (Сургут) (+2)
+https://strm.yandex.ru/kal/ch86/ch860_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Классика кино
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Красная Линия
+https://strm.yandex.ru/kal/rline_supres/rline_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Крик ТВ (Екатеринбург) (+2)
+https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Любимое. ТВ
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Матур ТВ
+https://strm.yandex.ru/kal/matur/matur0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир
+https://strm.yandex.ru/kal/mir/mir0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир 24
+https://strm.yandex.ru/kal/mir24_supres/mir24_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Premium
+https://strm.yandex.ru/kal/mirhd/mirhd0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Белогорья
+https://strm.yandex.ru/kal/mirbel/mirbel0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Москва 24
+https://strm.yandex.ru/kal/msk24_supres/msk24_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,МузСоюз
+https://strm.yandex.ru/kal/muzsoyuz/muzsoyuz0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Муз-ТВ
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Надежда
+https://strm.yandex.ru/kal/nadejda_supres/nadejda_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Ника ТВ
+https://strm.yandex.ru/kal/nikatv/nikatv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Новости 360
+https://strm.yandex.ru/kal/360news/360news0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Ноябрьск 24
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,О!2
+https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Осетия-Ирыстон
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТВ 24 (Екатеринбург) (+2)
+https://strm.yandex.ru/kal/otv24/otv240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТС
+https://strm.yandex.ru/kal/otstv/otstv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Охотник и Рыболов
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Первый вегетарианский
+https://strm.yandex.ru/kal/1vegetarian/1vegetarian0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Первый Тульский
+https://strm.yandex.ru/kal/1tula/1tula0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Пёс и Ко
+https://strm.yandex.ru/kal/pesiko_supres/pesiko_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Про бизнес
+https://strm.yandex.ru/kal/probusiness_cv_supres/probusiness_cv_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Продвижение
+https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Радость моя
+https://strm.yandex.ru/kal/radostmoya/radostmoya0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Ратник
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,РБК
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,С1 (Сургут)
+https://strm.yandex.ru/kal/c1/c10_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Саратов 24 (+1)
+https://strm.yandex.ru/kal/saratov24_supres/saratov24_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Своё ТВ  (Ставроаольский край)
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Сказки Зайки
+https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Советские мультфильмы
+https://strm.yandex.ru/kal/sovmult/sovmult0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Советское кино
+https://strm.yandex.ru/kal/sovkino/sovkino0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Союз
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Старт
+https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ТВТУР.TV
+https://strm.yandex.ru/kal/tvtour/tvtour0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ТВ-Ц
+https://strm.yandex.ru/kal/tvc/tvc0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Телеканал 360
+https://strm.yandex.ru/kal/360tv/360tv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Телеканал Футбол
+https://strm.yandex.ru/kal/football/football0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ТК Центр (Красноярск)
+https://strm.yandex.ru/kal/tck/tck0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Тномер (Ремонт)
+https://strm.yandex.ru/kal/tnomer/tnomer0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Точка ТВ
+https://strm.yandex.ru/kal/tochkatv_cv/tochkatv_cv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Три Ангела
+https://strm.yandex.ru/kal/3angel/3angel0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Центральное телевидение
+https://strm.yandex.ru/kal/ctv/ctv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,ШАДР-инфо
+https://strm.yandex.ru/kal/shadrinfo/shadrinfo0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Эхо ТВ
+https://strm.yandex.ru/kal/echotv_supres/echotv_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Югра
+https://strm.yandex.ru/kal/ugra/ugra0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,Юрган
+https://strm.yandex.ru/kal/yurgan/yurgan0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0,1HD Music
+https://strm.yandex.ru/kal/1hd/1hd0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,ACB TV
+https://strm.yandex.ru/kal/acb/acb0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,EarthTV
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Fashion TV
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,France 24 (FR)
+https://strm.yandex.ru/kal/france24/france240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,HD Media
+https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Hit TV
+https://strm.yandex.ru/kal/hittv/hittv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Joy Cook
+https://strm.yandex.ru/kal/joycook/joycook0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Music Box (RU)
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,RT
+https://strm.yandex.ru/kal/rt_hd/rt_hd0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,RT Doc
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,RTG
+https://strm.yandex.ru/kal/rtg/rtg0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,RU TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Sochi Live
+https://strm.yandex.ru/kal/sochilive/sochilive0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Terra Incognita
+https://strm.yandex.ru/kal/terra/terra0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,World Fashion
+https://strm.yandex.ru/kal/fashion/fashion0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Архыз 24
+https://strm.yandex.ru/kal/arhyz24/arhyz240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Астрахань 24
+https://strm.yandex.ru/kal/astrahan24/astrahan240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Башкортостан 24
+https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Большая Азия
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Брянская Губерния
+https://strm.yandex.ru/kal/brgub/brgub0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Вкусное. ТВ
+https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Волгоград 1
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Дайвинг. TV
+https://strm.yandex.ru/kal/diving/diving0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Дождь
+https://strm.yandex.ru/kal/tvrain/tvrain0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Дон 24
+https://strm.yandex.ru/kal/don24/don240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Жар Птица
+https://strm.yandex.ru/kal/firebird/firebird0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Загородный
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Классика кино
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Крик ТВ (Екатеринбург) (+2)
+https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Любимое. ТВ
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Матур ТВ
+https://strm.yandex.ru/kal/matur/matur0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Premium
+https://strm.yandex.ru/kal/mirhd/mirhd0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Мир Белогорья
+https://strm.yandex.ru/kal/mirbel/mirbel0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Ноябрьск 24
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,О!2
+https://strm.yandex.ru/kal/o2/o20_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Осетия-Ирыстон
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТВ 24 (Екатеринбург) (+2)
+https://strm.yandex.ru/kal/otv24/otv240_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,ОТС
+https://strm.yandex.ru/kal/otstv/otstv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Охотник и Рыболов
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Первый Тульский
+https://strm.yandex.ru/kal/1tula/1tula0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Продвижение
+https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Ратник
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,С1 (Сургут)
+https://strm.yandex.ru/kal/c1/c10_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Своё ТВ  (Ставроаольский край)
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0,Сказки Зайки
+https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:1.016,Старт
+https://strm.yandex.ru/kal/start/start0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0.733,ТВТУР.TV
+https://strm.yandex.ru/kal/tvtour/tvtour0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0.88,Телеканал Футбол
+https://strm.yandex.ru/kal/football/football0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:0.88,ТК Центр (Красноярск)
+https://strm.yandex.ru/kal/tck/tck0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:1.16,Три Ангела
+https://strm.yandex.ru/kal/3angel/3angel0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:1.16,Юрган
+https://strm.yandex.ru/kal/yurgan/yurgan0_169_360p.json/index-v1-a1.m3u8

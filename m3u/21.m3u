@@ -1,0 +1,569 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://teleguide.info/download/new3/jtv.zip,http://epg.in.ua/epg/tvprogram_ua_ru.gz" tvg-shift=+4 cache=500
+#EXTINF:-1 tvg-logo="http://host.denms.ru/images/denmsiptv.jpg",-NSK 02.12 17:00 http://denms.ru
+http://host.denms.ru/images/iptv.mp4
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+2 aspect-ratio=16:9 group-title="Эфирные",Первый канал
+http://176.51.59.46:1234/udp/225.54.205.129:5000
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+2 aspect-ratio=16:9 group-title="Эфирные",Первый канал
+http://176.51.59.46:1234/udp/225.54.205.149:5000
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+2 aspect-ratio=16:9 group-title="Эфирные",Первый канал
+http://176.51.59.46:1234/udp/225.54.223.1:5000
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+4 aspect-ratio=16:9 group-title="Эфирные",Первый канал (+7)
+http://176.51.59.46:1234/udp/225.54.223.2:5000
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+4 aspect-ratio=16:9 group-title="Эфирные",Первый канал
+http://89.107.36.167:81/udp/239.195.1.101:1234
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+2 aspect-ratio=16:9 group-title="Эфирные",Первый канал HD
+http://109.171.12.52:81/udp/239.54.5.61:1224
+#EXTINF:-1 tvg-name="Первый_канал" tvg-shift=+4 aspect-ratio=16:9 group-title="Эфирные",Первый канал HD
+http://178.163.30.204:4022/udp/234.0.0.172:2000
+#EXTINF:-1 tvg-name="Россия_1" tvg-shift=0 aspect-ratio=16:9 group-title="Эфирные",Россия 1
+http://176.51.59.46:1234/udp/225.54.205.130:5000
+#EXTINF:-1 tvg-name="Россия_1" tvg-shift=0 aspect-ratio=16:9 group-title="Эфирные",Россия 1 (nso)
+http://176.51.59.46:1234/udp/225.54.205.150:5000
+#EXTINF:-1 tvg-name="Россия_1" tvg-shift=0 aspect-ratio=16:9 group-title="Эфирные",Россия 1
+http://176.51.59.46:1234/udp/225.54.223.3:5000
+#EXTINF:-1 tvg-name="Россия_1" tvg-shift=+4 aspect-ratio=16:9 group-title="Эфирные",Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Россия_1" tvg-shift=+4 aspect-ratio=16:9 group-title="Эфирные",Россия 1 (+2)
+http://89.107.36.167:81/udp/239.195.1.102:1234
+#EXTINF:-1 tvg-name="НТВ" tvg-shift=0 group-title="Эфирные",НТВ
+http://176.51.59.46:1234/udp/225.54.205.132:5000
+#EXTINF:-1 tvg-name="НТВ" tvg-shift=0 group-title="Эфирные",НТВ
+http://176.51.59.46:1234/udp/225.54.205.152:5000
+#EXTINF:-1 tvg-name="НТВ" tvg-shift=0 group-title="Эфирные",НТВ
+http://176.51.59.46:1234/udp/225.54.223.5:5000
+#EXTINF:-1 tvg-name="НТВ" tvg-shift=+2 group-title="Эфирные",НТВ HD
+http://89.107.36.167:81/udp/239.195.6.21:1234
+#EXTINF:-1 tvg-name="Пятый_Канал" tvg-shift=0 group-title="Эфирные",Пятый канал
+http://176.51.59.46:1234/udp/225.54.205.133:5000
+#EXTINF:-1 tvg-name="Пятый_Канал" tvg-shift=0 group-title="Эфирные",Пятый канал
+http://176.51.59.46:1234/udp/225.54.205.153:5000
+#EXTINF:-1 tvg-name="Пятый_Канал" tvg-shift=+4 group-title="Эфирные",Пятый канал
+http://176.51.59.46:1234/udp/225.54.223.6:5000
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-shift=0 group-title="Эфирные",РЕН ТВ
+http://176.51.59.46:1234/udp/225.54.205.139:5000
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-shift=0 group-title="Эфирные",РЕН ТВ
+http://176.51.59.46:1234/udp/225.54.223.14:5000
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-shift=0 group-title="Эфирные",РЕН ТВ
+http://176.51.59.46:1234/udp/225.54.205.159:5000
+#EXTINF:-1 tvg-name="СТС" tvg-shift=0 group-title="Эфирные",СТС
+http://176.51.59.46:1234/udp/225.54.205.161:5000
+#EXTINF:-1 tvg-name="СТС" tvg-shift=-3 group-title="Эфирные",СТС
+http://176.51.59.46:1234/udp/233.7.70.129:5000
+#EXTINF:-1 tvg-name="СТС" tvg-shift=0 group-title="Эфирные",СТС
+http://176.51.59.46:1234/udp/225.54.223.16:5000
+#EXTINF:-1 tvg-name="СТС" tvg-shift=-2 group-title="Эфирные",СТС
+http://176.51.59.46:1234/udp/225.54.223.17:5000
+#EXTINF:-1 tvg-name="СТС" tvg-shift=0 group-title="Эфирные",СТС Мир
+http://176.51.59.46:1234/udp/225.54.205.141:5000
+#EXTINF:-1 tvg-name="СТС" tvg-shift=0 group-title="Эфирные",СТС Мир
+http://176.51.59.46:1234/udp/225.54.205.173:5000
+#EXTINF:-1 tvg-name="СТС_Love" tvg-shift=0 group-title="Эфирные",СТС Love
+http://176.51.59.46:1234/udp/225.54.223.131:5000
+#EXTINF:-1 tvg-name="СТС_Love" tvg-shift=+2 group-title="Эфирные",СТС Love (+2)
+http://176.51.59.46:1234/udp/225.54.223.130:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-shift=0 group-title="Эфирные",ТНТ
+http://176.51.59.46:1234/udp/225.54.205.147:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-shift=0 group-title="Эфирные",ТНТ
+http://176.51.59.46:1234/udp/225.54.205.167:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-shift=0 group-title="Эфирные",ТНТ
+http://176.51.59.46:1234/udp/225.54.223.24:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-shift=+7 group-title="Эфирные",ТНТ (+7)
+http://176.51.59.46:1234/udp/225.54.223.25:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-shift=0 group-title="Эфирные",ТНТ
+http://109.171.12.52:81/udp/239.54.5.134:1234
+#EXTINF:-1 tvg-name="ТНТ4" tvg-shift=+2 group-title="Эфирные",ТНТ4
+http://176.51.59.46:1234/udp/225.54.23.227:5000
+#EXTINF:-1 tvg-name="ТНТ4" tvg-shift=+4 group-title="Эфирные",ТНТ4
+http://176.51.59.46:1234/udp/225.54.23.228:5000
+#EXTINF:-1 tvg-name="ТНТ4" tvg-shift=-3 group-title="Эфирные",ТНТ4
+http://176.51.59.46:1234/udp/225.54.23.229:5000
+#EXTINF:-1 tvg-name="ТНТ4" tvg-shift=+4 group-title="Эфирные",ТНТ4
+http://176.51.59.46:1234/udp/225.54.205.177:5000
+#EXTINF:-1 tvg-name="Супер" tvg-shift=0 group-title="Эфирные",Супер
+http://176.51.59.46:1234/udp/225.54.223.203:5000
+#EXTINF:-1 tvg-name="Deutsche_Welle" group-title="Информационные",Deutsche Welle
+http://176.51.59.46:1234/udp/233.7.70.33:5000
+#EXTINF:-1 tvg-name="EuroNews" group-title="Информационные",Euronews
+http://176.51.59.46:1234/udp/233.7.70.32:5000
+#EXTINF:-1 tvg-name="France_24" group-title="Информационные",France 24
+http://176.51.59.46:1234/udp/233.7.70.30:5000
+#EXTINF:-1 tvg-name="Russia_Today" group-title="Информационные",Russia Today
+http://176.51.59.46:1234/udp/233.7.70.31:5000
+#EXTINF:-1 tvg-name="Беларусь_24" group-title="Информационные",Беларусь 24
+http://109.171.12.52:81/udp/239.54.5.175:1224
+#EXTINF:-1 tvg-name="Дождь" group-title="Информационные",Дождь
+http://178.163.30.204:4022/udp/234.0.0.234:2000
+#EXTINF:-1 tvg-name="Дождь" group-title="Информационные",Дождь
+https://strm.yandex.ru/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Дождь" group-title="Информационные",Дождь
+http://37.193.105.120:81/udp/239.1.13.6:1234
+#EXTINF:-1 group-title="Информационные",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Информационные",Известия
+https://strm.yandex.ru/kal/mic/mic0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Информационные",Катунь 24 (Барнаул)
+http://109.171.12.52:81/udp/239.54.5.147:1224
+#EXTINF:-1 tvg-name="Мир" group-title="Информационные",Мир
+http://176.51.59.46:1234/udp/225.54.223.161:5000
+#EXTINF:-1 tvg-name="Мир" group-title="Информационные",Мир
+http://176.51.59.46:1234/udp/225.54.223.23:5000
+#EXTINF:-1 tvg-name="Мир" tvg-shift=0 group-title="Информационные",Мир
+http://176.51.59.46:1234/udp/225.54.205.146:5000
+#EXTINF:-1 tvg-name="Мир" tvg-shift=0 group-title="Информационные",Мир
+http://176.51.59.46:1234/udp/225.54.205.166:5000
+#EXTINF:-1 tvg-name="МИР_24" group-title="Информационные",Мир 24
+http://176.51.59.46:1234/udp/233.7.70.130:5000
+#EXTINF:-1 tvg-name="Москва-24" group-title="Информационные",Москва-24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Настоящее время" tvg-shift=0 group-title="Информационные",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
+#EXTINF:-1 tvg-name="РБК" group-title="Информационные",РБК
+http://176.51.59.46:1234/udp/233.7.70.35:5000
+#EXTINF:-1 tvg-name="РБК" group-title="Информационные",РБК
+http://176.51.59.46:1234/udp/225.54.205.172:5000
+#EXTINF:-1 group-title="Информационные",РЖД
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="Россия_24" aspect-ratio=16:9 group-title="Информационные",Россия 24
+http://176.51.59.46:1234/udp/225.54.205.135:5000
+#EXTINF:-1 tvg-name="Россия_24" aspect-ratio=16:9 group-title="Информационные",Россия 24
+http://176.51.59.46:1234/udp/225.54.205.155:5000
+#EXTINF:-1 tvg-name="Россия_24" aspect-ratio=16:9 group-title="Информационные",Россия 24
+http://176.51.59.46:1234/udp/225.54.223.8:5000
+#EXTINF:-1 tvg-name="Россия_24" aspect-ratio=16:9 group-title="Информационные",Россия 24 Томск
+http://live.tvtomsk.ru/hls/RT-24.m3u8
+#EXTINF:-1 tvg-name="Россия_24" aspect-ratio=16:9 group-title="Информационные",Россия 24
+http://109.171.12.52:81/udp/239.54.5.12:1224
+#EXTINF:-1 group-title="Информационные",Томское время
+http://live.tomsk-time.ru:80/hls/live.m3u8
+#EXTINF:-1 tvg-name="24_Техно" group-title="Познавательные",24 Техно
+http://176.51.59.46:1234/udp/233.7.70.18:5000
+#EXTINF:-1 tvg-name="365_Дней" group-title="Познавательные",365 дней
+http://109.171.12.52:81/udp/239.54.6.70:1224
+#EXTINF:-1 tvg-name="Animal_Planet" group-title="Познавательные",Animal Planet
+http://37.193.105.120:81/udp/239.1.5.3:1234
+#EXTINF:-1 tvg-name="Discovery_Channel" group-title="Познавательные",Discovery Channel
+http://176.51.59.46:1234/udp/233.7.70.12:5000
+#EXTINF:-1 tvg-name="Discovery_Channel" group-title="Познавательные",Discovery HD
+http://109.171.12.52:81/udp/239.54.7.86:1224
+#EXTINF:-1 tvg-name="Discovery_Science" group-title="Познавательные",Discovery Science HD
+http://37.193.105.120:81/udp/239.1.5.9:1234
+#EXTINF:-1 tvg-name="ID_Xtra" group-title="Познавательные",Investigation Discovery
+http://37.193.105.120:81/udp/239.1.2.8:1234
+#EXTINF:-1 tvg-name="ID_Xtra" group-title="Познавательные",Investigation Discovery
+http://5.100.94.229:52349/udp/224.3.20.178:1234
+#EXTINF:-1 tvg-name="ID_Xtra" group-title="Познавательные",Investigation Discovery
+http://playlist.onlybest.tv/ru/channel/dd81e9ebd7d7f11da2da156e410b2d5d/224/index.m3u8
+#EXTINF:-1 tvg-name="ID_Xtra" group-title="Познавательные",Investigation Discovery
+http://playlist.onlybest.tv/ru/channel/db8ade6f0d0c2fed1d9e405a706c65c8/224/index.m3u8
+#EXTINF:-1 tvg-name="ID_Xtra" group-title="Познавательные",Investigation Discovery
+http://188.123.32.102:82/udp/239.45.2.22:1234
+#EXTINF:-1 tvg-name="HD_Life" group-title="Познавательные",HD Life
+http://109.171.12.52:81/udp/239.54.6.140:1224
+#EXTINF:-1 tvg-name="Nat_Geo_WILD" group-title="Познавательные",Nat Geo Wild
+http://37.193.105.120:81/udp/239.1.5.16:1234
+#EXTINF:-1 tvg-name="National_Geographic" group-title="Познавательные",National Geographic Channel
+http://176.51.59.46:1234/udp/233.7.70.43:5000
+#EXTINF:-1 tvg-name="Viasat_Explorer" group-title="Познавательные",Viasat Explorer
+http://176.51.59.46:1234/udp/233.7.70.16:5000
+#EXTINF:-1 tvg-name="Viasat_Nature_History_HD" group-title="Познавательные",Viasat Nature
+http://176.51.59.46:1234/udp/233.7.70.133:5000
+#EXTINF:-1 tvg-name="Viasat_Nature_History_HD" group-title="Познавательные",Viasat Nature
+http://109.171.12.52:81/udp/239.54.5.90:1234
+#EXTINF:-1 tvg-name="Viasat_History" group-title="Познавательные",Viasat History
+http://176.51.59.46:1234/udp/233.7.70.17:5000
+#EXTINF:-1 tvg-name="Зоопарк" group-title="Познавательные",Zooпарк
+http://176.51.59.46:1234/udp/233.7.70.11:5000
+#EXTINF:-1 tvg-name="24_ДОК" group-title="Познавательные",Доктор
+http://176.51.59.46:1234/udp/233.7.70.51:5000
+#EXTINF:-1 tvg-name="Живая_планета" group-title="Познавательные",Живая Планета
+http://109.171.12.52:81/udp/239.54.5.166:1224
+#EXTINF:-1 tvg-name="Моя_Планета" group-title="Познавательные",Моя планета
+http://109.171.12.52:81/udp/239.54.6.53:1224
+#EXTINF:-1 tvg-name="Моя_Планета" group-title="Познавательные",Моя планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Наука_2_0" group-title="Познавательные",Наука 2.0
+http://37.193.105.120:81/udp/239.1.5.18:1234
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Планета_HD" group-title="Познавательные",Планета HD
+http://109.171.12.52:81/udp/239.54.6.170:1234
+#EXTINF:-1 tvg-name="Просвещение" group-title="Познавательные",Просвещение
+http://176.51.59.46:1234/udp/233.7.70.50:5000
+#EXTINF:-1 tvg-name="Телепутешествия" group-title="Познавательные",Телепутешествия HD
+http://109.171.12.52:81/udp/239.54.6.103:1224
+#EXTINF:-1 tvg-name="Eurosport_1" group-title="Спортивные",Eurosport 1
+http://176.51.59.46:1234/udp/233.7.70.13:5000
+#EXTINF:-1 tvg-name="Eurosport_2" group-title="Спортивные",Eurosport 2
+http://176.51.59.46:1234/udp/233.7.70.14:5000
+#EXTINF:-1 tvg-name="Viasat_Sport" group-title="Спортивные",Viasat Sport
+http://176.51.59.46:1234/udp/233.7.70.15:5000
+#EXTINF:-1 tvg-name="КХЛ_HD" group-title="Спортивные",КХЛ
+http://176.51.59.46:1234/udp/233.7.70.5:5000
+#EXTINF:-1 tvg-name="КХЛ_HD" group-title="Спортивные",КХЛ
+http://176.49.63.144:1234/udp/233.7.70.5:5000
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ
+http://176.51.59.46:1234/udp/233.7.70.151:5000
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ
+http://176.51.59.46:1234/udp/225.54.205.131:5000
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ
+http://176.51.59.46:1234/udp/225.54.205.151:5000
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ (nsk-o)
+http://176.51.59.46:1234/udp/225.54.223.4:5000
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ
+http://37.193.105.120:81/udp/239.1.15.16:1234
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ
+http://89.107.36.167:81/udp/239.195.1.3:1234
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ
+http://178.163.30.204:4022/udp/234.0.0.204:2000
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ (HD)
+http://37.193.105.120:81/udp/239.1.15.23:1234
+#EXTINF:-1 tvg-name="Матч!" aspect-ratio=16:9 group-title="Спортивные",Матч ТВ (HD)
+http://109.171.12.52:81/udp/239.54.6.152:1224
+#EXTINF:-1 tvg-name="Матч!_Арена" group-title="Спортивные",МАТЧ! Арена
+http://176.51.59.46:1234/udp/233.7.70.6:5000
+#EXTINF:-1 tvg-name="Матч!_Арена" group-title="Спортивные",МАТЧ! Арена
+http://109.171.12.52:81/udp/239.54.6.85:1224
+#EXTINF:-1 tvg-name="Боец" group-title="Спортивные",МАТЧ! Боец
+http://37.193.105.120:81/udp/239.1.12.9:1234
+#EXTINF:-1 tvg-name="Матч!_Игра" group-title="Спортивные",МАТЧ! Игра
+http://37.193.105.120:81/udp/239.1.12.10:1234
+#EXTINF:-1 tvg-name="МАТЧ!_Футбол_1_HD" aspect-ratio=16:9 group-title="Спортивные",МАТЧ! Футбол 1
+http://37.193.105.120:81/udp/239.1.23.1:1234
+#EXTINF:-1 tvg-name="МАТЧ!_Футбол_1_HD" aspect-ratio=16:9 group-title="Спортивные",МАТЧ! Футбол 1 HD
+http://persik.by/stream/2944/263250/10266.m3u8
+#EXTINF:-1 tvg-name="МАТЧ!_Футбол_2_HD" aspect-ratio=16:9 group-title="Спортивные",МАТЧ! Футбол 2
+http://37.193.105.120:81/udp/239.1.23.2:1234
+#EXTINF:-1 tvg-name="МАТЧ!_Футбол_2_HD" aspect-ratio=16:9 group-title="Спортивные",МАТЧ! Футбол 2 HD
+http://persik.by/stream/2944/263250/10267.m3u8
+#EXTINF:-1 tvg-name="МАТЧ!_Футбол_3_HD" aspect-ratio=16:9 group-title="Спортивные",МАТЧ! Футбол 3
+http://37.193.105.120:81/udp/239.1.23.3:1234
+#EXTINF:-1 tvg-name="МАТЧ!_Футбол_3_HD" aspect-ratio=16:9 group-title="Спортивные",МАТЧ! Футбол 3 HD
+http://persik.by/stream/2944/263250/10268.m3u8
+#EXTINF:-1 tvg-name="Наш_Футбол_HD" tvg-shift=0 aspect-ratio=16:9 group-title="Спортивные",Матч Премьер
+http://persik.by/stream/2944/263250/10264.m3u8
+#EXTINF:-1 tvg-name="Наш_Футбол_HD" tvg-shift=0 aspect-ratio=16:9 group-title="Спортивные",Матч Премьер
+http://37.193.105.120:81/udp/239.1.20.11:1234
+#EXTINF:-1 tvg-name="Наш_Футбол_HD" tvg-shift=0 aspect-ratio=16:9 group-title="Спортивные",Матч Премьер
+http://37.235.246.205:81/udp/225.50.67.1:1234
+#EXTINF:-1 tvg-name="Русский_Экстрим" group-title="Спортивные",Русский ЭКСТРИМ
+http://176.51.59.46:1234/udp/233.7.70.7:5000
+#EXTINF:-1 tvg-name="English_Club_TV" group-title="Хобби и увлечения",English Club TV
+http://176.51.59.46:1234/udp/233.7.70.48:5000
+#EXTINF:-1 tvg-name="Food_Network" group-title="Хобби и увлечения",Food Network HD
+http://176.51.59.46:1234/udp/233.7.70.10:5000
+#EXTINF:-1 tvg-name="Ocean-TV" group-title="Хобби и увлечения",Ocean TV
+http://176.51.59.46:1234/udp/233.7.70.46:5000
+#EXTINF:-1 tvg-name="Бобер" group-title="Хобби и увлечения",Бобёр
+http://37.193.105.120:81/udp/239.1.2.19:1234
+#EXTINF:-1 tvg-name="Драйв_ТВ" group-title="Хобби и увлечения",Драйв
+http://176.51.59.46:1234/udp/233.7.70.8:5000
+#EXTINF:-1 tvg-name="Еда" group-title="Хобби и увлечения",Еда
+http://89.107.36.167:81/udp/239.195.6.235:1234
+#EXTINF:-1 tvg-name="Здоровое_Телевидение" group-title="Хобби и увлечения",Здоровое ТВ
+http://176.51.59.46:1234/udp/233.7.70.47:5000
+#EXTINF:-1  group-title="Хобби и увлечения",Конный мир
+http://109.248.66.229:4022/udp/239.195.1.109:1234
+#EXTINF:-1  group-title="Хобби и увлечения",Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Оружие" group-title="Хобби и увлечения",Оружие
+http://37.193.105.120:81/udp/239.1.2.7:1234
+#EXTINF:-1 tvg-name="Оружие" group-title="Хобби и увлечения",Оружие
+http://89.107.36.167:81/udp/239.195.5.2:1234
+#EXTINF:-1 tvg-name="Охота_и_рыбалка" group-title="Хобби и увлечения",Охота и рыбалка
+http://176.51.59.46:1234/udp/233.7.70.44:5000
+#EXTINF:-1 tvg-name="Приключения_HD" group-title="Хобби и увлечения",Приключения HD
+http://109.171.12.52:81/udp/239.54.6.103:1224
+#EXTINF:-1 tvg-name="Усадьба" group-title="Хобби и увлечения",Усадьба
+http://176.51.59.46:1234/udp/233.7.70.45:5000
+#EXTINF:-1 tvg-name="Успех" group-title="Хобби и увлечения",Успех
+http://176.51.59.46:1234/udp/233.7.70.36:5000
+#EXTINF:-1 tvg-name="Канал_2x2" tvg-shift=0 group-title="Развлекательные",2x2 (0)
+http://176.51.59.46:1234/udp/225.54.223.241:5000
+#EXTINF:-1 tvg-name="Канал_2x2" tvg-shift=+2 group-title="Развлекательные",2x2 (+2)
+http://176.51.59.46:1234/udp/225.54.223.243:5000
+#EXTINF:-1 tvg-name="TLC_HD" group-title="Развлекательные",TLC
+http://37.193.105.120:81/udp/239.1.3.16:1234
+#EXTINF:-1 tvg-name="World_Fashion_Channel_(рус_)" group-title="Развлекательные",World Fashion Channel
+http://176.51.59.46:1234/udp/233.7.70.57:5000
+#EXTINF:-1 tvg-name="Все_ТВ" group-title="Развлекательные",Все ТВ
+http://176.51.59.46:1234/udp/225.54.23.1:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-shift=0 group-title="Развлекательные",Домашний
+http://176.51.59.46:1234/udp/225.54.205.142:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-shift=0 group-title="Развлекательные",Домашний
+http://176.51.59.46:1234/udp/225.54.223.18:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-shift=0 group-title="Развлекательные",Домашний
+http://176.51.59.46:1234/udp/225.54.223.19:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-shift=0 group-title="Развлекательные",Домашний
+http://176.51.59.46:1234/udp/225.54.205.162:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-shift=0 group-title="Развлекательные",Домашний
+http://109.171.12.52:81/udp/239.54.5.100:1224
+#EXTINF:-1 tvg-name="Пятница" tvg-shift=0 group-title="Развлекательные",Пятница
+http://176.51.59.46:1234/udp/225.54.205.144:5000
+#EXTINF:-1 tvg-name="Пятница" tvg-shift=0 group-title="Развлекательные",Пятница
+http://176.51.59.46:1234/udp/225.54.223.21:5000
+#EXTINF:-1 tvg-name="Пятница" tvg-shift=0 group-title="Развлекательные",Пятница
+http://176.51.59.46:1234/udp/225.54.205.164:5000
+#EXTINF:-1 tvg-name="Ретро_ТВ" group-title="Развлекательные",Ретро ТВ
+http://176.51.59.46:1234/udp/233.7.70.42:5000
+#EXTINF:-1 tvg-name="Сарафан_ТВ" group-title="Развлекательные",Сарафан
+http://89.107.36.167:81/udp/239.195.4.97:1234
+#EXTINF:-1 tvg-name="Теледом" group-title="Развлекательные",Теледом
+rtmp://91.209.128.203:1935/live/teledom3 
+#EXTINF:-1 tvg-name="Че" tvg-shift=0 group-title="Развлекательные",Че
+http://176.51.59.46:1234/udp/225.54.223.211:5000
+#EXTINF:-1 tvg-name="Че" tvg-shift=-3 group-title="Развлекательные",Че (+7)
+http://176.51.59.46:1234/udp/225.54.223.212:5000
+#EXTINF:-1 tvg-name="Ю" tvg-shift=0 aspect-ratio=4:3 group-title="Развлекательные",Ю
+http://176.51.59.46:1234/udp/225.54.223.221:5000
+#EXTINF:-1 tvg-name="Ю" tvg-shift=+4 aspect-ratio=4:3 group-title="Развлекательные",Ю
+http://176.51.59.46:1234/udp/225.54.223.223:5000
+#EXTINF:-1 tvg-name="Ю" tvg-shift=0 group-title="Развлекательные",Ю
+http://176.51.59.46:1234/udp/225.54.205.171:5000
+#EXTINF:-1 tvg-name="Юмор_ТВ" group-title="Развлекательные",Юмор BOX
+http://176.51.59.46:1234/udp/233.7.70.58:5000
+#EXTINF:-1 group-title="Общественные",12 канал Омск
+http://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="49_канал" group-title="Общественные",49 канал Новосибирск
+http://176.51.59.46:1234/udp/225.54.205.170:5000
+#EXTINF:-1 tvg-name="8_Канал" group-title="Общественные",8 канал
+http://176.51.59.46:1234/udp/225.54.205.175:5000
+#EXTINF:-1 tvg-name="ТРО" group-title="Общественные",БелРос
+http://176.51.59.46:1234/udp/233.7.70.9:5000
+#EXTINF:-1 group-title="Общественные",Вместе-РФ
+http://176.114.202.140:7781/udp/239.255.11.75:1234?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDE3IDEyOjI4OjQ1IFBNJmhhc2hfdmFsdWU9dFk1VFpCWEkwSnlkRTBsZDc4WERtdz09JnZhbGlkbWludXRlcz00ODA= 
+#EXTINF:-1 group-title="Общественные",Вместе-РФ
+http://cdn-01.bonus-tv.ru/vmesterf/vmesterf/type/user/devname/LG-SmartTV/devid/LG-1469271631/eol/20200101T0000/hash/6d0d11a702c7afe8506f32cd86a7ba8c277904cc/track_2_700/playlist.m3u8
+#EXTINF:-1 tvg-name="Звезда" tvg-shift=0 group-title="Общественные",Звезда
+http://176.51.59.46:1234/udp/225.54.205.145:5000
+#EXTINF:-1 tvg-name="Звезда" tvg-shift=0 group-title="Общественные",Звезда
+http://176.51.59.46:1234/udp/225.54.223.22:5000
+#EXTINF:-1 tvg-name="Звезда" tvg-shift=0 group-title="Общественные",Звезда
+http://176.51.59.46:1234/udp/225.54.205.165:5000
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/662239742659031040/q6XhEXQn.jpg" group-title="Общественные",ОРТ Планета (Оренбург)
+http://live-media56.cdnvideo.ru/media56-pub/media56.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/662239742659031040/q6XhEXQn.jpg" tvg-name="ОРТ" group-title="Общественные",ОРТ
+http://live-media56.cdnvideo.ru/media56-pub/media56.sdp/chunklist.m3u8?hls_proxy_host=pub3.rtmp.s01.l.media56
+#EXTINF:-1 tvg-name="ОТР" group-title="Общественные",ОТР
+http://176.51.59.46:1234/udp/225.54.223.181:5000
+#EXTINF:-1 tvg-name="ОТР" group-title="Общественные",ОТР
+http://176.51.59.46:1234/udp/225.54.205.137:5000
+#EXTINF:-1 tvg-name="ОТР" group-title="Общественные",ОТР
+http://176.51.59.46:1234/udp/225.54.223.11:5000
+#EXTINF:-1 tvg-name="ОТР" group-title="Общественные",ОТР
+http://176.51.59.46:1234/udp/225.54.205.157:5000
+#EXTINF:-1 tvg-name="ОТС" group-title="Общественные",ОТС
+http://176.51.59.46:1234/udp/225.54.205.169:5000
+#EXTINF:-1 tvg-name="Первый_образовательный" group-title="Общественные",Первый Образовательный
+http://176.51.59.46:1234/udp/233.7.70.49:5000
+#EXTINF:-1 tvg-name="Россия_Культура" group-title="Общественные",Россия Культура
+http://176.51.59.46:1234/udp/225.54.205.134:5000
+#EXTINF:-1 tvg-name="Россия_Культура" group-title="Общественные",Россия Культура
+http://176.51.59.46:1234/udp/225.54.223.7:5000
+#EXTINF:-1 tvg-name="Россия_Культура" group-title="Общественные",Россия Культура
+http://176.51.59.46:1234/udp/225.54.205.154:5000
+#EXTINF:-1 aspect-ratio=16:9 group-title="Общественные",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+http://176.51.59.46:1234/udp/225.54.205.138:5000
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+http://176.51.59.46:1234/udp/225.54.205.158:5000
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+http://176.51.59.46:1234/udp/233.7.70.150:5000
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+http://176.51.59.46:1234/udp/225.54.223.12:5000
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+http://176.51.59.46:1234/udp/225.54.223.13:5000
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские",Cartoon Network
+http://109.171.12.52:81/udp/239.54.6.57:1224
+#EXTINF:-1 tvg-name="Disney_Channel" aspect-ratio=4:3 tvg-shift=0 group-title="Детские",Disney
+http://176.51.59.46:1234/udp/225.54.223.231:5000
+#EXTINF:-1 tvg-name="Disney_Channel" aspect-ratio=4:3 tvg-shift=0 group-title="Детские",Disney
+http://176.51.59.46:1234/udp/225.54.223.232:5000
+#EXTINF:-1 tvg-name="Disney_Channel" tvg-shift=0 group-title="Детские",Disney
+http://176.51.59.46:1234/udp/225.54.205.174:5000
+#EXTINF:-1 tvg-name="Nick_Jr" group-title="Детские",Nick Jr
+http://158.46.245.158:81/udp/239.255.42.126:1234
+#EXTINF:-1 tvg-name="Nick_Jr" group-title="Детские",Nick Jr
+http://37.193.105.120:81/udp/239.1.20.49:1234
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
+http://176.51.59.46:1234/udp/233.7.70.52:5000
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
+http://37.193.105.120:81/udp/239.1.3.4:1234
+#EXTINF:-1 tvg-name="Детский_канал" group-title="Детские",Детский
+http://176.51.59.46:1234/udp/233.7.70.54:5000
+#EXTINF:-1 tvg-name="Детский мир" group-title="Детские",Детский мир
+http://95.37.15.124:4088/udp/225.52.13.97:5000
+#EXTINF:-1 tvg-name="Карусель" aspect-ratio=16:9 tvg-shift=+1 group-title="Детские",Карусель
+http://176.51.59.46:1234/udp/225.54.205.136:5000
+#EXTINF:-1 tvg-name="Карусель" aspect-ratio=16:9 tvg-shift=+1 group-title="Детские",Карусель
+http://176.51.59.46:1234/udp/225.54.223.9:5000
+#EXTINF:-1 tvg-name="Карусель" aspect-ratio=16:9 tvg-shift=+1 group-title="Детские",Карусель
+http://176.51.59.46:1234/udp/225.54.223.10:5000
+#EXTINF:-1 tvg-name="Карусель" aspect-ratio=16:9 tvg-shift=+1 group-title="Детские",Карусель
+http://176.51.59.46:1234/udp/225.54.205.156:5000
+#EXTINF:-1 tvg-name="Мама" group-title="Детские",Мама
+http://176.51.59.46:1234/udp/233.7.70.56:5000
+#EXTINF:-1 tvg-name="Мульт" group-title="Детские",Мульт
+http://109.171.12.52:81/udp/239.54.6.155:1224
+#EXTINF:-1 tvg-name="Мультимания" group-title="Детские",Мультимания
+http://109.171.12.52:81/udp/239.54.5.158:1224
+#EXTINF:-1 tvg-name="Мультимузыка" group-title="Детские",Мультимузыка
+http://176.51.59.46:1234/udp/233.7.70.134:5000
+#EXTINF:-1 tvg-name="Радость_Моя" group-title="Детские",Радость моя
+http://176.51.59.46:1234/udp/233.7.70.55:5000
+#EXTINF:-1 tvg-logo="http://iptv.denms.ru/logo/smile.png" group-title="Детские",Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="1HD" group-title="Музыкальные",1HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:-1 tvg-name="9_Волна" aspect-ratio=16:9 group-title="Музыкальные",9 волна
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1 tvg-name="Bridge_TV" group-title="Музыкальные",Bridge TV
+http://176.51.59.46:1234/udp/233.7.70.4:5000
+#EXTINF:-1 tvg-name="Europa_Plus_TV" aspect-ratio=16:9 group-title="Музыкальные",Europa Plus TV
+http://109.171.12.52:81/udp/239.54.5.88:1224
+#EXTINF:-1 tvg-name="Mezzo_Live_HD" aspect-ratio=16:9 group-title="Музыкальные",Mezzo Live HD
+http://37.193.105.120:81/udp/239.1.10.1:1234
+#EXTINF:-1 tvg-name="Mezzo_Live_HD" aspect-ratio=16:9 group-title="Музыкальные",Mezzo Live HD
+http://5.100.94.229:52349/udp/224.3.24.147:1234
+#EXTINF:-1 tvg-name="MCM_Top" group-title="Музыкальные",MCM TOP
+http://176.51.59.46:1234/udp/233.7.70.3:5000
+#EXTINF:-1 tvg-name="MTV_Россия" group-title="Музыкальные",MTV Россия HD
+http://109.171.12.52:81/udp/239.54.5.118:1234
+#EXTINF:-1 tvg-name="MUSIC_Box_TV" group-title="Музыкальные",Music Box
+http://176.51.59.46:1234/udp/233.7.70.62:5000
+#EXTINF:-1 tvg-name="Music_Box_RU" group-title="Музыкальные",Music Box Ru
+http://176.51.59.46:1234/udp/233.7.70.61:5000
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/556104390226894849/MGkDTe20.jpeg" group-title="Музыкальные",Nebiset TV
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1 tvg-name="NRJ_Hits" aspect-ratio=16:9 group-title="Музыкальные",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1 tvg-name="О2ТВ" group-title="Музыкальные",O 2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/smil:mycdn0633430096.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="RU_TV" group-title="Музыкальные",RU.TV
+http://176.51.59.46:1234/udp/233.7.70.63:5000
+#EXTINF:-1 tvg-name="VH1_Classic" group-title="Музыкальные",VH1 Classic
+http://176.51.59.46:1234/udp/233.7.70.2:5000
+#EXTINF:-1 tvg-name="Ля-Минор" group-title="Музыкальные",Ля-Минор
+http://176.51.59.46:1234/udp/233.7.70.1:5000
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-shift=+1 group-title="Музыкальные",Муз ТВ
+http://176.51.59.46:1234/udp/225.54.205.148:5000
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-shift=+1 group-title="Музыкальные",Муз ТВ
+http://176.51.59.46:1234/udp/225.54.223.26:5000
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-shift=+1 group-title="Музыкальные",Муз ТВ
+http://176.51.59.46:1234/udp/225.54.205.168:5000
+#EXTINF:-1 group-title="Музыкальные",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ_Music" group-title="Музыкальные",ТНТ Music
+http://176.51.59.46:1234/udp/233.7.70.60:5000
+#EXTINF:-1 tvg-name="ТНТ_Music" group-title="Музыкальные",ТНТ Music
+http://cdn-01.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8
+#EXTINF:-1 tvg-name="А1" tvg-shift=4 group-title="Кино и сериалы",A1
+http://37.193.105.120:81/udp/239.1.4.4:1234
+#EXTINF:-1 tvg-name="Amedia_Hit" tvg-shift=4 group-title="Кино и сериалы",Amedia Hit HD
+http://37.193.105.120:81/udp/239.1.21.14:1234
+#EXTINF:-1 tvg-name="Amedia_Premium" tvg-shift=4 group-title="Кино и сериалы",Amedia Premium HD
+http://178.163.30.204:4022/udp/234.0.0.209:2000
+#EXTINF:-1 tvg-name="Cinema" tvg-shift=4 group-title="Кино и сериалы",Cinema
+http://109.171.12.52:81/udp/239.54.6.164:1224
+#EXTINF:-1 tvg-name="Fox" tvg-shift=4 group-title="Кино и сериалы",FOX
+http://37.193.105.120:81/udp/239.1.4.5:1234
+#EXTINF:-1 tvg-name="Fox_Life" tvg-shift=4 group-title="Кино и сериалы",FOX Life HD
+http://37.193.105.120:81/udp/239.1.9.3:1234
+#EXTINF:-1 tvg-name="Fox_Life" tvg-shift=4 group-title="Кино и сериалы",FOX Life
+http://37.193.105.120:81/udp/239.1.3.11:1234
+#EXTINF:-1 tvg-name="SONY_ТВ_HD" tvg-shift=4 group-title="Кино и сериалы",Sony Channel
+http://109.171.12.52:81/udp/239.54.6.47:1224
+#EXTINF:-1 tvg-name="SONY_ТВ_HD" tvg-shift=4 group-title="Кино и сериалы",Sony Channel
+http://37.193.105.120:81/udp/239.1.4.6:1234
+#EXTINF:-1 tvg-name="SONY_Sci-Fi" tvg-shift=4 group-title="Кино и сериалы",Sony Sci-Fi
+http://109.171.12.52:81/udp/239.54.6.50:1224
+#EXTINF:-1 tvg-name="SONY_Sci-Fi" tvg-shift=4 group-title="Кино и сериалы",Sony Sci-Fi
+http://37.193.105.120:81/udp/239.1.4.7:1234
+#EXTINF:-1 tvg-name="Paramount_Comedy" tvg-shift=4 group-title="Кино и сериалы",Paramount Comedy
+http://109.171.12.52:81/udp/239.54.5.117:1234
+#EXTINF:-1 tvg-name="TV1000" tvg-shift=4 group-title="Кино и сериалы",TV1000
+http://176.51.59.46:1234/udp/233.7.70.53:5000
+#EXTINF:-1 tvg-name="TV1000_Action" tvg-shift=4 group-title="Кино и сериалы",TV1000 Action
+http://109.171.12.52:81/udp/239.54.5.111:1234
+#EXTINF:-1 tvg-name="TV1000_Action" tvg-shift=4 group-title="Кино и сериалы",TV1000 Action
+http://37.193.105.120:81/udp/239.1.20.104:1234
+#EXTINF:-1 tvg-name="TV1000_Русское_кино" tvg-shift=4 group-title="Кино и сериалы",TV1000 Русское кино
+http://176.51.59.46:1234/udp/233.7.70.131:5000
+#EXTINF:-1 tvg-name="TV1000_Русское_кино" tvg-shift=4 group-title="Кино и сериалы",TV1000 Русское кино
+http://109.171.12.52:81/udp/239.54.5.112:1234
+#EXTINF:-1 tvg-name="ViP_Comedy" tvg-shift=4 group-title="Кино и сериалы",ViP Comedy
+http://37.193.105.120:81/udp/239.1.21.40:1234
+#EXTINF:-1 tvg-name="ViP_Megahit" tvg-shift=4 group-title="Кино и сериалы",ViP Megahit
+http://37.193.105.120:81/udp/239.1.21.39:1234
+#EXTINF:-1 tvg-name="ViP_Premiere" tvg-shift=4 group-title="Кино и сериалы",ViP Premiere
+http://37.193.105.120:81/udp/239.1.21.38:1234
+#EXTINF:-1 tvg-name="TV_XXI_(TV21)" tvg-shift=4 group-title="Кино и сериалы",XXI
+http://176.51.59.46:1234/udp/233.7.70.38:5000
+#EXTINF:-1 tvg-name="Zee_TV" tvg-shift=4 aspect-ratio=4:3 group-title="Кино и сериалы",Zee TV
+http://176.51.59.46:1234/udp/233.7.70.41:5000
+#EXTINF:-1 tvg-name="Дом_кино" tvg-shift=4 group-title="Кино и сериалы",Дом кино
+http://37.193.105.120:81/udp/239.1.4.8:1234
+#EXTINF:-1 tvg-name="Дом_кино" tvg-shift=4 group-title="Кино и сериалы",Дом кино
+http://89.107.36.167:81/udp/239.195.3.41:1234
+#EXTINF:-1 tvg-name="Дом_кино" tvg-shift=4 group-title="Кино и сериалы",Дом кино
+http://178.163.30.204:4022/udp/234.0.0.219:2000
+#EXTINF:-1 tvg-name="Иллюзион__" tvg-shift=4 group-title="Кино и сериалы",Иллюзион+
+http://109.171.12.52:81/udp/239.54.6.162:1224
+#EXTINF:-1 tvg-shift=4 group-title="Кино и сериалы", Индийское кино
+http://109.171.12.52:81/udp/239.54.6.154:1224
+#EXTINF:-1 tvg-shift=4 group-title="Кино и сериалы", Кино ТВ HD
+http://37.193.105.120:81/udp/239.1.17.13:1234
+#EXTINF:-1 tvg-shift=4 group-title="Кино и сериалы", Кинопремьера HD
+http://37.193.105.120:81/udp/239.1.21.26:1234
+#EXTINF:-1 tvg-name="Наше_Новое_Кино" tvg-shift=4 group-title="Кино и сериалы",Наше Новое Кино
+http://89.107.36.167:81/udp/239.195.6.12:1234
+#EXTINF:-1 tvg-name="Настоящее_Страшное_ТВ" tvg-shift=4 group-title="Кино и сериалы",НСТ
+http://176.51.59.46:1234/udp/233.7.70.39:5000
+#EXTINF:-1 tvg-name="Родное_кино" tvg-shift=4 group-title="Кино и сериалы",Родное кино
+http://95.37.15.124:4088/udp/225.52.13.42:5000
+#EXTINF:-1 tvg-name="Русский_роман" tvg-shift=4 group-title="Кино и сериалы",Русский Бестселлер
+http://109.171.12.52:81/udp/239.54.6.172:1234
+#EXTINF:-1 tvg-name="Русский_детектив" tvg-shift=4 group-title="Кино и сериалы",Русский Детектив
+http://176.51.59.46:1234/udp/233.7.70.34:5000
+#EXTINF:-1 tvg-name="Русский_Иллюзион" tvg-shift=4 group-title="Кино и сериалы",Русский Иллюзион
+http://109.171.12.52:81/udp/239.54.6.161:1224
+#EXTINF:-1 tvg-name="Русский_Иллюзион" tvg-shift=4 group-title="Кино и сериалы",Русский Иллюзион
+http://37.193.105.120:81/udp/239.1.4.11:1234
+#EXTINF:-1 tvg-name="Русский_роман" tvg-shift=4 group-title="Кино и сериалы",Русский Роман
+http://109.171.12.52:81/udp/239.54.5.87:1224
+#EXTINF:-1 tvg-name="ТВ-3" tvg-shift=4 group-title="Кино и сериалы",ТВ3
+http://176.51.59.46:1234/udp/225.54.205.143:5000
+#EXTINF:-1 tvg-name="ТВ-3" tvg-shift=4 group-title="Кино и сериалы",ТВ3
+http://176.51.59.46:1234/udp/225.54.223.20:5000
+#EXTINF:-1 tvg-name="ТВ-3" tvg-shift=4 group-title="Кино и сериалы",ТВ3
+http://176.51.59.46:1234/udp/225.54.205.163:5000
+#EXTINF:-1 tvg-name="Феникс_Кино" tvg-shift=4 group-title="Кино и сериалы",Феникс Кино
+http://176.51.59.46:1234/udp/233.7.70.40:5000
+#EXTINF:-1  group-title="Кино и сериалы",Видеокассета 90-х 1
+http://188.138.75.210:5566/90-1/index.m3u8?auth=90:90
+#EXTINF:-1  group-title="Кино и сериалы",Видеокассета 90-х 2
+http://188.138.75.210:5566/90-2/index.m3u8?auth=90:90
+#EXTINF:-1  group-title="Кино и сериалы",Видеокассета 90-х 3
+http://188.138.75.210:5566/90-3/index.m3u8?auth=90:90
+#EXTINF:-1 group-title="Заставки",Аквариум
+https://live-stack.cdnvideo.ru/hls/5a8da5d5e563f20a4fc0a0a4.m3u8
+#EXTINF:-1 group-title="Заставки",Бабочки
+https://live-stack.cdnvideo.ru/hls/5a8eef89e563f20a4fc0a686.m3u8
+#EXTINF:-1 group-title="Заставки",Водопад
+https://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8
+#EXTINF:-1 group-title="Заставки",Камин
+https://live-stack.cdnvideo.ru/hls/5a8d9f95e563f20a4fc0a069.m3u8
+#EXTINF:-1 group-title="Заставки",Камин в зимнем доме
+https://live-stack.cdnvideo.ru/hls/5a8d97c8e563f20a4fc0a047.m3u8
+#EXTINF:-1 group-title="Заставки",Космос
+https://live-stack.cdnvideo.ru/hls/5a8ed4e0e563f20a4fc0a594.m3u8
+#EXTINF:-1 group-title="Заставки",Море
+https://live-stack.cdnvideo.ru/hls/5a8ee503e563f20a4fc0a5ed.m3u8
+#EXTINF:-1 group-title="Заставки",Природа и время
+https://live-stack.cdnvideo.ru/hls/5a8e9cdfe563f20a4fc0a36f.m3u8
+#EXTINF:-1 group-title="Заставки",Релакс
+https://live-stack.cdnvideo.ru/hls/5a8e9dd7e563f20a4fc0a379.m3u8
+#EXTINF:-1 group-title="Заставки",Цветение кактусов
+https://live-stack.cdnvideo.ru/hls/5a8d92a8e563f20a4fc0a024.m3u8
+#EXTINF:-1 group-title="Заставки",Цветы
+https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m3u8

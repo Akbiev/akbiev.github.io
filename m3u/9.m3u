@@ -1,0 +1,468 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://185.245.187.150:80/Amedia1/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 2
+http://109.111.191.108/239.211.211.82/stream.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+http://109.111.191.108/239.211.211.171/stream.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+http://185.245.187.150:80/AmediaPremiumFHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit HD
+http://185.245.187.150:80/AmediaHitHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy HD
+http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit HD
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1 group-title="Кино",VIP Premiere HD
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1 group-title="Кино",Сериал UHD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Кино UHD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Русский Экстрим UHD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Ultra HD cinema
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Премиальное HD
+http://188.35.9.26:5050/001
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:-1 group-title="Кино",TV1000
+http://188.93.95.83/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Action
+http://188.93.95.83/tv1000act/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Русское Кино
+http://188.93.95.83/tv1000rukino/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино
+http://188.93.95.83/interesnoetv/index.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино HD
+http://188.35.9.11:2022
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://109.111.191.108/239.211.211.141/stream.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://188.93.95.83/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья
+http://188.93.95.83/kinosemya/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://109.111.191.108/239.211.211.142/stream.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://188.93.95.83/kinohit/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://188.93.95.83/nashanovoekino/index.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood HD
+http://185.245.187.150:80/Bollywood/index.m3u8
+#EXTINF:-1 group-title="Кино",Cinema
+http://109.111.191.108/239.211.211.106/stream.m3u8
+#EXTINF:-1 group-title="Кино",Fox
+http://109.111.191.108/239.211.211.91/stream.m3u8
+#EXTINF:-1 group-title="Кино",Fox HD
+http://185.245.187.150:80/Fox/index.m3u8
+#EXTINF:-1 group-title="Кино",Fox Life
+http://109.111.191.108/239.211.211.92/stream.m3u8
+#EXTINF:-1 group-title="Кино",Fox Life
+http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Paramount Comedy
+http://89.189.191.250/239.211.211.73/stream.m3u8
+#EXTINF:-1 group-title="Кино",Sony Turbo
+http://176.115.152.6:4000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Кино",Иллюзион +
+http://188.93.95.83/illuzionplus/index.m3u8
+#EXTINF:-1 group-title="Кино",ТВ-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Домашний
+http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Русский Роман HD
+http://89.189.191.250/239.211.200.29/stream.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://147.135.210.90:8081/tv/dom-kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://185.245.187.150:80/Domkino/index.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
+http://185.245.187.150:80/DomKinoPremiumFHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский Иллюзион
+http://188.93.95.83/rusilluzion/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский Бестселлер
+http://109.111.191.108/239.211.211.137/stream.m3u8
+#EXTINF:-1 group-title="Кино",Русский Детектив
+http://109.111.191.108/239.211.211.95/stream.m3u8
+#EXTINF:-1 group-title="Кино",﻿Русский Детектив
+http://182.73.122.74:10005/bysid/416
+#EXTINF:-1 group-title="Кино",Детское кино HD
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 group-title="Кино",Звезда
+http://51.68.141.106:8081/tv/zvezda/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Еврокино
+http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Феникс+ Кино
+http://109.111.191.108/239.211.211.72/stream.m3u8
+#EXTINF:-1 group-title="Кино",Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="Кино",Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Кино",TV XXI
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Кино",Дорама HD
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Мир Сериала
+http://188.93.95.83/mirseriala/index.m3u8
+#EXTINF:-1 group-title="Кино",Zee TV
+http://176.115.152.6:4002/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Кино",Супер
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery
+http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",DTX
+http://182.73.122.74:10005/bysid/407
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://109.111.191.108/239.211.211.40/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+http://185.245.187.150:80/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+http://185.245.187.150:80/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Love Nature 4K
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Silence TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="Познавательные",Travel Bulgaria HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://91.206.19.123:4022/udp/225.0.55.13:1234
+#EXTINF:-1 group-title="Познавательные",CBS Reality
+http://185.245.187.150:80/CBSReality/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://109.111.191.108/239.211.211.162/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Galaxy TV
+http://109.111.191.108/239.211.211.39/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикий
+http://185.245.187.150:80/Dikiy/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Домашние животные
+http://109.111.191.108/239.211.211.65/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Дикая охота HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://91.206.19.123:4022/udp/225.0.55.15:1234
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
+http://109.111.191.108/239.211.211.150/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто 24
+http://109.111.191.108/239.211.211.13/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://109.111.191.108/239.211.211.59/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Здоровое TB
+http://109.111.191.108/239.211.211.61/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://185.245.187.150:80/TLCHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Univer TV
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://a775797910-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/playlist.m3u8?version=2
+
+#EXTINF:-1 group-title="RU",Первый канал HD
+http://185.245.187.150:80/1FHD/index.m3u8
+#EXTINF:-1 group-title="RU",Мир 24 HD 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="RU",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="RU",Мир Премиум HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="RU",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="RU",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="RU",Россия 24 
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="RU",Россия К
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
+#EXTINF:-1 group-title="RU",Москва 24
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8
+#EXTINF:-1 group-title="RU",Москва 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="RU",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 group-title="RU",Пятница HD
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 group-title="RU",360°
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 group-title="RU",Лент ТВ 24
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="RU",Первый Тульский HD
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 group-title="RU",Мособр ТВ HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="RU",Мособр ТВ HD
+http://1hdru-hls-otcnet.cdnvideo.ru/mosobrtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RU",Башкортостан 24 HD
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 group-title="RU",СТС Love
+http://182.73.122.74:10001/bysid/712
+#EXTINF:-1 group-title="RU",ТНТ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",ТНТ HD
+http://188.35.9.11:2018
+#EXTINF:-1 group-title="RU",ТНТ4
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",РЕН ТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",НТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU"",ОТР
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",Пятый канал
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",ТВ Центр
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",СТС
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU" tvg-logo="http://epg.it999.ru/img/323.png",2x2
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU" tvg-logo="https://iptvx.one/icn/yu.png",Ю
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU" tvg-logo="https://iptvx.one/icn/che.png",Че
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="RU",Дождь
+http://109.111.191.108/239.211.211.70/stream.m3u8
+
+#EXTINF:-1 group-title="Детские",Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Disney Channel
+http://51.68.141.106:8081/tv/disney/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Disney Channel (+4)
+http://109.111.191.108/239.211.211.24/stream.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://109.111.191.108/239.211.211.98/stream.m3u8
+
+#EXTINF:-1 group-title="Спорт",Eurosport 4K
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://185.245.187.150:80/EurosportFHD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://185.245.187.150:80/Eurosport2FHD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://89.189.191.250/239.211.211.170/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+http://188.93.95.83/setanta/index.m3u8
+#EXTINF:-1 group-title="Спорт",UFC ТВ HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спорт",UFC ТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://212.232.45.244:4022/udp/239.2.100.27:4321
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://185.245.187.150:80/ViasatSport/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",HD Fashion & Lifestyle [FHD]
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Музыка",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box Russia HD
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="Мексика",A&E HD
+http://45.182.127.235:8000/play/a0dh
+#EXTINF:-1 group-title="Мексика",AMC HD
+http://45.182.127.235:8000/play/a0di
+#EXTINF:-1 group-title="Мексика",AXN
+http://45.182.127.235:8000/play/a0d1
+#EXTINF:-1 group-title="Мексика",AXN HD
+http://45.182.127.235:8000/play/a0ar
+#EXTINF:-1 group-title="Мексика",AZ click HD
+http://45.182.127.235:8000/play/a0do
+#EXTINF:-1 group-title="Мексика",Animal Planet HD
+http://45.182.127.235:8000/play/a0de
+#EXTINF:-1 group-title="Мексика",Boomerang
+http://45.182.127.235:8000/play/a0co
+#EXTINF:-1 group-title="Мексика",CINECANAL HD
+http://45.182.127.235:8000/play/a0e9
+#EXTINF:-1 group-title="Мексика",CNNE
+http://45.182.127.235:8000/play/a0d4
+#EXTINF:-1 group-title="Мексика",CineCanal
+http://45.182.127.235:8000/play/a0ah
+#EXTINF:-1 group-title="Мексика",CineMax
+http://45.182.127.235:8000/play/a0ae
+#EXTINF:-1 group-title="Мексика",DISCOVERY THEATHER HD
+http://45.182.127.235:8000/play/a09g
+#EXTINF:-1 group-title="Мексика",Discovery Channel HD
+http://45.182.127.235:8000/play/a0ei
+#EXTINF:-1 group-title="Мексика",Discovery Turbo
+http://45.182.127.235:8000/play/a0a3
+#EXTINF:-1 group-title="Мексика",Disney
+http://45.182.127.235:8000/play/a0a1
+#EXTINF:-1 group-title="Мексика",Disney JR
+http://45.182.127.235:8000/play/a0cp
+#EXTINF:-1 group-title="Мексика",Disney XD
+http://45.182.127.235:8000/play/a0ds
+#EXTINF:-1 group-title="Мексика",ESPN  HD
+http://45.182.127.235:8000/play/a0ed
+#EXTINF:-1 group-title="Мексика",ESPN 2 HD
+http://45.182.127.235:8000/play/a0eb
+#EXTINF:-1 group-title="Мексика",ESPN 3 HD
+http://45.182.127.235:8000/play/a0ec
+#EXTINF:-1 group-title="Мексика",El Gourmet
+http://45.182.127.235:8000/play/a0aw
+#EXTINF:-1 group-title="Мексика",Exa TV
+http://45.182.127.235:8000/play/a0e4
+#EXTINF:-1 group-title="Мексика",FOX Action HD
+http://45.182.127.235:8000/play/a09o
+#EXTINF:-1 group-title="Мексика",FOX Comedy HD
+http://45.182.127.235:8000/play/a0eo
+#EXTINF:-1 group-title="Мексика",FOX Family HD
+http://45.182.127.235:8000/play/a09p
+#EXTINF:-1 group-title="Мексика",FOX HD
+http://45.182.127.235:8000/play/a0e6
+#EXTINF:-1 group-title="Мексика",FOX Movies HD
+http://45.182.127.235:8000/play/a09n
+#EXTINF:-1 group-title="Мексика",FOX SPORTS 2 HD
+http://45.182.127.235:8000/play/a0at
+#EXTINF:-1 group-title="Мексика",FOX SPORTS 3 HD
+http://45.182.127.235:8000/play/a0ee
+#EXTINF:-1 group-title="Мексика",FOX Series HD
+http://45.182.127.235:8000/play/a09m
+#EXTINF:-1 group-title="Мексика",FX Movies
+http://45.182.127.235:8000/play/a0ab
+#EXTINF:-1 group-title="Мексика",Film & arts HD
+http://45.182.127.235:8000/play/a0dg
+#EXTINF:-1 group-title="Мексика",Fox Classic HD
+http://45.182.127.235:8000/play/a09q
+#EXTINF:-1 group-title="Мексика",Fox Sports
+http://45.182.127.235:8000/play/a0a7
+#EXTINF:-1 group-title="Мексика",Fox Sports  HD
+http://45.182.127.235:8000/play/a0aq
+#EXTINF:-1 group-title="Мексика",France24
+http://45.182.127.235:8000/play/a0d6
+#EXTINF:-1 group-title="Мексика",Golf Channel HD
+http://45.182.127.235:8000/play/a0dq
+#EXTINF:-1 group-title="Мексика",H2
+http://45.182.127.235:8000/play/a0ey
+#EXTINF:-1 group-title="Мексика",HBO Family HD
+http://45.182.127.235:8000/play/a0b9
+#EXTINF:-1 group-title="Мексика",HBO HD
+http://45.182.127.235:8000/play/a0b6
+#EXTINF:-1 group-title="Мексика",HBO Plus HD
+http://45.182.127.235:8000/play/a0b8
+#EXTINF:-1 group-title="Мексика",HBO XTREME
+http://45.182.127.235:8000/play/a0ba
+#EXTINF:-1 group-title="Мексика",HBO2 HD
+http://45.182.127.235:8000/play/a0b7
+#EXTINF:-1 group-title="Мексика",History HD
+http://45.182.127.235:8000/play/a0d8
+#EXTINF:-1 group-title="Мексика",Home & Health HD
+http://45.182.127.235:8000/play/a09h
+#EXTINF:-1 group-title="Мексика",Nat Geo Wild
+http://45.182.127.235:8000/play/a0ex
+#EXTINF:-1 group-title="Мексика",Nick 2 HD
+http://45.182.127.235:8000/play/a09c
+#EXTINF:-1 group-title="Мексика",Paramount HD
+http://45.182.127.235:8000/play/a0eg
+#EXTINF:-1 group-title="Мексика",Pasiones HD
+http://45.182.127.235:8000/play/a0el
+#EXTINF:-1 group-title="Мексика",SONY HD
+http://45.182.127.235:8000/play/a0e8
+#EXTINF:-1 group-title="Мексика",SPACE HD
+http://45.182.127.235:8000/play/a0as
+#EXTINF:-1 group-title="Мексика",SyFy HD
+http://45.182.127.235:8000/play/a0dd
+#EXTINF:-1 group-title="Мексика",TBN Enlace
+http://45.182.127.235:8000/play/a0d7
+#EXTINF:-1 group-title="Мексика",TBS
+http://45.182.127.235:8000/play/a0cv
+#EXTINF:-1 group-title="Мексика",TCM
+http://45.182.127.235:8000/play/a0f5
+#EXTINF:-1 group-title="Мексика",TNT HD
+http://45.182.127.235:8000/play/a09f
+#EXTINF:-1 group-title="Мексика",TNT Series HD
+http://45.182.127.235:8000/play/a0eh
+#EXTINF:-1 group-title="Мексика",Telemundo HD
+http://45.182.127.235:8000/play/a0dj
+#EXTINF:-1 group-title="Мексика",WARNER HD
+http://45.182.127.235:8000/play/a0e7
+
+#EXTINF:-1 group-title="Спорт" logo="https://5nch.com/wp-content/themes/digital_grounds/img/smtk-8.png",@smartoteka
+https://5nch.com/wp-content/uploads/bnr/Smartoteka-IPTV.ts

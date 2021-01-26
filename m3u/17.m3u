@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0,Ocean(mp4)
+#EXTGRP:познавательные
+http://vjs.zencdn.net/v/oceans.mp4
+#EXTINF:0,Bunny(1080p)
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4
+#EXTINF:0,ElephantsDream
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4

@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:0,Дом кино премиум HD
+http://51.15.53.100:25000/dkphd
+#EXTINF:0,Кинохит HD
+http://51.15.53.100:25000/kinohithd
+#EXTINF:0,Матч! ТВ HD
+http://51.15.53.100:25000/matchtvhd
+#EXTINF:0,Матч! Футбол 1 HD
+http://51.15.53.100:25000/matchfut1hd
+#EXTINF:0,НТВ HD
+http://51.15.53.100:25000/ntvhd
+#EXTINF:0,Первый канал HD
+http://51.15.53.100:25000/perviihd
+#EXTINF:0,РЕН ТВ HD
+http://51.15.53.100:25000/rentvhd
+#EXTINF:0,Страшное HD
+http://51.15.53.100:25000/strashnoehd
+#EXTINF:0,ТВЦ
+http://51.15.53.100:25000/tvc
+#EXTINF:0,ТНТ HD
+http://51.15.53.100:25000/tnthd
+#EXTINF:0,A1 HD
+http://51.15.53.100:25000/a1hd
+#EXTINF:0,Discovery HD 
+http://51.15.53.100:25000/discoveryhd
+#EXTINF:0,DTX
+http://51.15.53.100:25000/dtx
+#EXTINF:0,Eurosport Gold HD
+http://51.15.53.100:25000/eurogoldhd
+#EXTINF:0,TV 1000 HD
+http://51.15.53.100:25000/tv1000hd
+#EXTINF:0,Viasat Sport HD
+http://51.15.53.100:25000/viasporthd

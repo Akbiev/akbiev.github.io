@@ -1,0 +1,128 @@
+#EXTINF:-1,Первый канал HD
+http://89.28.21.90/1TV_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,1 канал HD
+http://195.88.16.15/perviyhd/index.m3u8
+#EXTINF:-1,Россия 1 HD
+http://193.124.177.175:8081/live-x/russiahd/playlist.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
+#EXTINF:-1,Россия 24
+http://80.64.16.193:8080/udp/239.195.32.4:1234
+#EXTINF:-1,Крым 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1,Крым 24 HD
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://193.124.177.175:8081/live-x/tnthd/playlist.m3u8
+#EXTINF:0.952034,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Звезда [HD]
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+#EXTINF:-1,RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,NewsOne HD
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://195.88.16.15/natgeowildhd/index.m3u8
+#EXTINF:-1,ИКС [HD]
+http://ikstv-htlive.cdn.ngenix.net/live/ikstv/playlist.m3u8
+#EXTINF:-1,HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,IZ.RU HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,78 HD
+http://vp.gcdn.co/streams/13.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,1HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:-1,Открытый HD
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://195.49.206.243:8000/udp/239.255.1.111:1234
+#EXTINF:-1,Amedia Premium HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-1,Nano HD
+http://nano.teleservice.su:8080/hls/nanohd.m3u8
+#EXTINF:-1,Russia Today Док HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:-1,Дон 24 HD
+http://cdn-01.bonus-tv.ru:8080/don24/tracks-v1a1/index.m3u8
+#EXTINF:-1,О2 ТВ HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:-1,Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:-1,Первый Музыкальный HD BY
+http://rtmp.one.by:1300
+#EXTINF:-1,STARS TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
+#EXTINF:-1,NRJ Hits HD
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1,Правда ТУТ HD (Киев)
+http://94.158.80.101:8080/pravdatyt/stream.m3u8
+#EXTINF:-1,Матч ТВ HD
+http://193.124.177.175:8081/live-x/matchtvhd/playlist.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://178.57.232.4:4022/udp/234.5.2.51:1234
+#EXTINF:-1,Amedia Hit HD
+http://vod.mors.by/channel?id=63&u=demo&p=demo
+#EXTINF:-1,Amedia Premium HD
+http://vod.mors.by/channel?id=68&u=demo&p=demo
+#EXTINF:-1,FOX HD
+http://vod.mors.by/channel?id=100&u=demo&p=demo
+#EXTINF:-1,Fox Life HD
+http://vod.mors.by/channel?id=75&u=demo&p=demo
+#EXTINF:-1,MTV Live HD
+http://vod.mors.by/channel?id=4&u=demo&p=demo
+#EXTINF:-1,National Geographic HD
+http://vod.mors.by/channel?id=91&u=demo&p=demo
+#EXTINF:-1,Nat Geo Wild HD
+http://vod.mors.by/channel?id=7&u=demo&p=demo
+#EXTINF:-1,Nickelodeon HD
+http://vod.mors.by/channel?id=11&u=demo&p=demo
+#EXTINF:-1,Sony HD
+http://vod.mors.by/channel?id=89&u=demo&p=demo
+#EXTINF:-1,Travel Channel HD
+http://vod.mors.by/channel?id=95&u=demo&p=demo
+#EXTINF:-1,Travel+Adventure HD
+http://vod.mors.by/channel?id=144&u=demo&p=demo
+#EXTINF:-1,Setanta Sport HD
+http://vod.mors.by/channel?id=145&u=demo&p=demo
+#EXTINF:-1,Setanta Sports + HD
+http://vod.mors.by/channel?id=146&u=demo&p=demo
+#EXTINF:-1,Инфо Морс HD
+http://vod.mors.by/channel?id=147&u=demo&p=demo
+#EXTINF:-1,Инфо Морс HD
+http://vod.mors.by/channel?id=148&u=demo&p=demo
+#EXTINF:-1,Кинопремьера HD
+http://vod.mors.by/channel?id=77&u=demo&p=demo
+#EXTINF:-1,Смайлик ТВ HD
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Vip COMEDY HD
+http://89.28.21.90/TV1000_Comedy_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Vip PREMIUM HD
+http://89.28.21.90/TV1000_Premium_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Vip MEGAHIT HD
+http://89.28.21.90/TV1000_MegaHit_HD/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Discovery Science HD
+http://89.28.21.90/Discovery_Science_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Discovery HD Showcase
+http://89.28.21.90/Discovery_Showcase_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,National Geographic HD
+http://89.28.21.90/National_Geographic_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Fox_Life_HD
+http://89.28.21.90/Fox_Life_HD/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,TV1000_Comedy_HD
+http://89.28.21.90/TV1000_Comedy_HD/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,TV1000_Premium_HD
+http://89.28.21.90/TV1000_Premium_HD/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Первый Prime HD
+http://89.28.21.90/Prime_HD/tracks-v2a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Dorcel HD
+http://89.28.21.90/Dorcel_HD/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Blue Hustler
+http://89.28.21.90/Hustler_TV/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
