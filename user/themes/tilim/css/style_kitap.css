@@ -1,0 +1,297 @@
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-italic.woff2") format("woff2"),
+		url("../fonts/iw-italic.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-roman.woff2") format("woff2"),
+		url("../fonts/iw-roman.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-bold.woff2") format("woff2"),
+		url("../fonts/iw-bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-bolditalic.woff2") format("woff2"),
+		url("../fonts/iw-bolditalic.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+}
+
+header {
+	background: url(../images/patterns/ep_naturalblack.png) repeat-x;
+	background-size: 200px 200px;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	transition: top 0.2s ease-in-out;
+	width: 100%;
+	padding-left: 10px;
+}
+
+.nav-up {
+	top: -50px;
+}
+
+.topbooknav {
+	display: flex;
+	justify-content: space-between;
+	font-size: 25px;
+}
+
+.topbooknav a {
+	color: white;
+	margin-right: 10px;
+	text-decoration: none;
+	text-align: center;
+}
+
+#navright {
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+#navleft { /* Webkit no like */
+	display: flex;
+}
+
+.nav-down a {
+	padding-top: 6px;
+	padding-bottom: 10px;
+}
+
+a {
+	text-decoration: underline;
+	color: #888888;
+}
+
+#toc {
+	font-size: 23px;
+}
+
+#toc:not(.mm-menu) {
+	display: none;
+}
+
+.mm-navbar {
+	background-color: silver;
+}
+
+.mm-title {
+	color: white !important;
+}
+
+.mm-listview {
+	font-size: 20px !important;
+}
+
+html {
+	height: 100%;
+}
+
+html.day {
+	background-color: white;
+}
+
+html.night {
+	background-color: black;
+}
+
+body {
+	margin: 0;
+	font-family: 'IW', serif;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+body.day {
+	background-color: white;
+	background: url(../images/patterns/lightpaperfibers.png) repeat;
+}
+
+body.night {
+	background-color: black;
+	background: url(../images/patterns/black_paper.png) repeat;
+	/*background: url(/user/themes/tilim/images/patterns/broken_noise.png) repeat;*/
+	/*background: url(../images/patterns/blackmamba.png) repeat;*/
+	/*background-size: 200px 200px;*/
+}
+
+#menu {
+	flex: 1;
+}
+
+main {
+	font-size: 19px;
+	line-height: 1.5em;
+	text-align: justify;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 7%;
+	padding-right: 7%;
+	margin: 0px auto;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+main.day {
+	color: black;
+}
+
+main.night {
+	color: #ddd;
+}
+
+main {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 820px;
+}
+
+main p, h1, h2, h3, h4, h5, h6 {
+	text-indent: 20px;
+}
+
+main p {
+	letter-spacing: 0.2px;
+}
+
+main ol p, main ul p {
+	text-indent: 0;
+}
+
+main.night em {
+	color: #c1bc80;
+}
+
+main.day em {
+	color: #9f090e;
+}
+
+.poetry {
+	white-space: pre-wrap;
+	text-indent: 0;
+	font-style: italic;
+	padding-left: 2.5em;
+}
+
+.break {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+code, pre {
+	font-family: 'IW';
+	font-style: italic;
+}
+
+.mergedcolumns_first {
+float:left;
+}
+
+.mergedcolumns_second {
+float:right;
+
+}
+
+footer {
+	background-color: black;
+	background: url(../images/patterns/ep_naturalblack.png) repeat-x;
+	padding-bottom: 10px;
+}
+
+.bottom {
+	display: flex;
+	justify-content: space-around;
+}
+
+.tooltipster-box {
+	font-family: Helvetica, sans-serif;
+	-webkit-overflow-scrolling: touch;
+}
+
+.footnotelink {
+	color: #999999;
+}
+
+#nightlight {
+	position: relative;
+	bottom: 8px;
+	width: 18px;
+	height: 18px;
+}
+
+#daylight {
+	position: relative;
+	bottom: 6px;
+	width: 23px;
+	height: 23px;
+}
+
+#translation {
+	position: relative;
+	bottom: 5px;
+	width: 23px;
+	height: 23px;
+	left: 10px;
+}
+
+#nightlight, #daylight, #translation {
+	padding: 8px;
+	cursor: pointer;
+}
+
+.mm-menu.mm-offcanvas {
+	z-index: 0;
+	display: none;
+	position: fixed;
+	width: 80%;
+	min-width: 140px;
+	max-width: 440px
+}
+
+@media print {
+	nav, header, footer {
+		display: none;
+	}
+	
+	main {
+		font-size: 18px;
+		padding-left: 8%;
+		padding-right: 8%;
+	}
+	
+}
+
+@media only screen and (min-width: 1080px) {
+	main {
+		font-size: 25px;
+		1background: green;
+	}
+}

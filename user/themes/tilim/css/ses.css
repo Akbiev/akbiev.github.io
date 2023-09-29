@@ -1,0 +1,183 @@
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-italic.woff2") format("woff2"),
+		url("../fonts/iw-italic.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-roman.woff2") format("woff2"),
+		url("../fonts/iw-roman.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-bold.woff2") format("woff2"),
+		url("../fonts/iw-bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "IW";
+	src: url("../fonts/iw-bolditalic.woff2") format("woff2"),
+		url("../fonts/iw-bolditalic.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Zing Rust Grunge1';
+	src: url('/webfonts/zrg1b.woff2') format('woff2'),
+	url('/webfonts/zrg1b.woff') format('woff');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gent";
+	src: url("../fonts/gentiumPlus-i.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Gent";
+	src: url("../fonts/gentiumPlus-r.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+a {
+	text-decoration: underline;
+	color: #888888;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	font-family: IW, Gent, serif;
+	min-height: 100%;
+}
+
+main {
+	font-size: 21px;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 7%;
+	padding-right: 7%;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 820px;
+}
+
+main p {
+	line-height: 1.3em;
+	text-align: justify;
+}
+
+main p, h1, h2, h3, h4, h5, h6 {
+	text-indent: 20px;
+}
+
+ul, ol {
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 20px;
+	text-align: justify;
+}
+
+nav ul, nav ol {
+	text-align: center;
+	margin-top: 0;
+	padding: 0;
+}
+
+nav ul li {
+	font-size: 20px;
+	list-style-type: none;
+	padding: 5px;
+}
+
+nav ol li {
+	font-size: 20px;
+	list-style-position: inside;
+}
+
+nav a {
+	text-decoration: none;
+	font-style: italic;
+	color: rgb(223,4,8);
+	border-bottom: 1px solid rgb(223,4,8);
+}
+
+main ol p, main ul p {
+	text-indent: 0;
+}
+
+main em {
+	color: #9f090e;
+	font-family: Gent;
+	font-style: normal;
+}
+
+.footnotelink {
+	color: #999999;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 20px;
+	line-height: 1.2em;
+}
+
+h2.sesindex {
+	display: inline;
+}
+
+li {
+	padding: 0px;
+}
+
+img.head {
+	width: 70%;
+	max-width: 320px;
+}
+
+img.article {
+	width: 100%;
+	nomask: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 5%);
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+} 
+
+@media print {
+	nav, header, footer {
+		display: none;
+	}
+	
+	main {
+		font-size: 18px;
+		padding-left: 8%;
+		padding-right: 8%;
+	}
+	
+}
