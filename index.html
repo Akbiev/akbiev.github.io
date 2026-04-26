@@ -1,1 +1,208 @@
+#include <WiFi.h>
+#include <WebServer.h>
+#include <WebSocketsServer.h>
+#include <driver/i2s.h>
 
+// ---------------------- НАСТРОЙКИ ----------------------
+const char* ssid = "ваш_SSID";
+const char* password = "ваш_ПАРОЛЬ";
+
+// Пины I2S для INMP441
+#define I2S_WS   10
+#define I2S_SD    9
+#define I2S_SCK  47
+#define I2S_PORT I2S_NUM_0
+
+// Параметры аудио
+#define SAMPLE_RATE     16000
+#define BITS_PER_SAMPLE I2S_BITS_PER_SAMPLE_32BIT
+#define DMA_BUF_COUNT    8
+#define DMA_BUF_LEN    512
+
+// Объекты
+WebServer server(80);
+WebSocketsServer webSocket(81);
+bool clientConnected = false;
+
+// HTML-страница (та же, что и раньше)
+const char htmlPage[] PROGMEM = R"rawliteral(
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>ESP32 Audio Stream</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="text-align:center; font-family:sans-serif; padding-top:40px;">
+  <h1>Микрофон ESP32</h1>
+  <button id="btn" style="font-size:20px; padding:15px 30px;">▶ Начать прослушивание</button>
+  <p id="status">Статус: ожидание</p>
+
+  <script>
+    let audioCtx = null;
+    let ws = null;
+    let listening = false;
+
+    document.getElementById('btn').addEventListener('click', () => {
+      if (!listening) {
+        startListening();
+      } else {
+        stopListening();
+      }
+    });
+
+    async function startListening() {
+      try {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 16000 });
+        ws = new WebSocket('ws://' + window.location.hostname + ':81/');
+
+        ws.binaryType = 'arraybuffer';
+        ws.onopen = () => {
+          listening = true;
+          document.getElementById('status').textContent = 'Статус: слушаем...';
+          document.getElementById('btn').textContent = '⏹ Остановить';
+        };
+
+        ws.onmessage = (event) => {
+          if (!audioCtx) return;
+          const rawData = new Int32Array(event.data);
+          const numFrames = rawData.length;
+          const audioBuffer = audioCtx.createBuffer(1, numFrames, 16000);
+          const channel = audioBuffer.getChannelData(0);
+          for (let i = 0; i < numFrames; i++) {
+            channel[i] = rawData[i] / 2147483648;
+          }
+          const source = audioCtx.createBufferSource();
+          source.buffer = audioBuffer;
+          source.connect(audioCtx.destination);
+          source.start();
+        };
+
+        ws.onerror = (err) => {
+          stopListening();
+          document.getElementById('status').textContent = 'Ошибка WebSocket';
+        };
+
+        ws.onclose = () => {
+          stopListening();
+          document.getElementById('status').textContent = 'Соединение закрыто';
+        };
+      } catch (e) {
+        console.error(e);
+        document.getElementById('status').textContent = 'Ошибка: ' + e.message;
+      }
+    }
+
+    function stopListening() {
+      if (ws) {
+        ws.close();
+        ws = null;
+      }
+      if (audioCtx) {
+        audioCtx.close();
+        audioCtx = null;
+      }
+      listening = false;
+      document.getElementById('btn').textContent = '▶ Начать прослушивание';
+      document.getElementById('status').textContent = 'Статус: остановлено';
+    }
+  </script>
+</body>
+</html>
+)rawliteral";
+
+// ---------------------- ОБРАБОТЧИКИ ----------------------
+void webSocketEvent(uint8_t num, WStype_t type, uint8_t * payload, size_t length) {
+  switch (type) {
+    case WStype_DISCONNECTED:
+      Serial.printf("Клиент #%u отключился\n", num);
+      clientConnected = false;
+      break;
+    case WStype_CONNECTED:
+      Serial.printf("Клиент #%u подключился\n", num);
+      clientConnected = true;
+      break;
+    default: break;
+  }
+}
+
+void handleRoot() {
+  server.send(200, "text/html", htmlPage);
+}
+
+// ---------------------- НАСТРОЙКА ----------------------
+void setup() {
+  Serial.begin(115200);
+  delay(100); // Пауза, чтобы монитор порта успел открыться
+
+  // ═══ СООБЩЕНИЕ О ПЕРЕЗАГРУЗКЕ ═══
+  Serial.println("\n\n==============================");
+  Serial.println("ESP32-S3 запущен!");
+  Serial.println("Перезагрузка прошла успешно.");
+  Serial.println("==============================\n");
+
+  // ═══ ПОДКЛЮЧЕНИЕ К WI-FI ═══
+  Serial.print("Начинаю подключение к Wi-Fi");
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+  Serial.println();
+  Serial.println("Wi-Fi подключён!");
+  Serial.print("IP адрес: ");
+  Serial.println(WiFi.localIP());
+
+  // ═══ I2S ═══
+  i2s_config_t i2s_config = {
+    .mode = (i2s_mode_t)(I2S_MODE_MASTER | I2S_MODE_RX),
+    .sample_rate = SAMPLE_RATE,
+    .bits_per_sample = BITS_PER_SAMPLE,
+    .channel_format = I2S_CHANNEL_FMT_ONLY_LEFT,
+    .communication_format = I2S_COMM_FORMAT_STAND_I2S,
+    .intr_alloc_flags = ESP_INTR_FLAG_LEVEL1,
+    .dma_buf_count = DMA_BUF_COUNT,
+    .dma_buf_len = DMA_BUF_LEN,
+    .use_apll = false,
+    .tx_desc_auto_clear = false,
+    .fixed_mclk = 0
+  };
+
+  i2s_pin_config_t pin_config = {
+    .bck_io_num = I2S_SCK,
+    .ws_io_num = I2S_WS,
+    .data_out_num = I2S_PIN_NO_CHANGE,
+    .data_in_num = I2S_SD
+  };
+
+  i2s_driver_install(I2S_PORT, &i2s_config, 0, NULL);
+  i2s_set_pin(I2S_PORT, &pin_config);
+  Serial.println("I2S инициализирован.");
+
+  // ═══ ЗАПУСК СЕРВЕРОВ ═══
+  webSocket.begin();
+  webSocket.onEvent(webSocketEvent);
+  Serial.println("WebSocket сервер запущен на порту 81.");
+
+  server.on("/", handleRoot);
+  server.begin();
+  Serial.println("HTTP сервер запущен на порту 80.");
+  Serial.println("\nГотов к приёму подключений.\n");
+}
+
+// ---------------------- ГЛАВНЫЙ ЦИКЛ ----------------------
+void loop() {
+  server.handleClient();
+  webSocket.loop();
+
+  if (clientConnected) {
+    static int32_t samples[DMA_BUF_LEN];
+    size_t bytesRead = 0;
+    esp_err_t err = i2s_read(I2S_PORT, samples, sizeof(samples), &bytesRead, 0);
+    if (err == ESP_OK && bytesRead > 0) {
+      webSocket.broadcastBIN((uint8_t*)samples, bytesRead);
+    }
+  } else {
+    delay(1);
+  }
+}
